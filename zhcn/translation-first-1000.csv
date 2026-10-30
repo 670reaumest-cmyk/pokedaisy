@@ -1,0 +1,1001 @@
+模块,English key,简体中文
+TrCoreKt,LANGUAGE,语言（LANGUAGE）
+TrCoreKt,AUTO,自动
+TrCoreKt,CANCEL,取消
+TrCoreKt,ON,开启
+TrCoreKt,OFF,关闭
+TrCoreKt,Back,返回
+TrCoreKt,YES,是
+TrCoreKt,NO,否
+TrCoreKt,OK,确定
+TrCoreKt,BACK,返回
+TrCoreKt,CLOSE,关闭
+TrCoreKt,DELETE,删除
+TrCoreKt,NONE,无
+TrCoreKt,INFO,信息
+TrCoreKt,POKéMON,宝可梦
+TrCoreKt,PARTY,队伍
+TrCoreKt,DEX,图鉴
+TrCoreKt,MAP,地图
+TrCoreKt,BAG,背包
+TrCoreKt,GUIDE,攻略
+TrCoreKt,CARD,训练家卡
+TrCoreKt,STATES,即时存档
+TrCoreKt,CHEEVOS,成就
+TrCoreKt,BATTLE,战斗
+TrCoreKt,SETTINGS,设置
+TrCoreKt,MORE,更多
+TrCoreKt,ALL,全部
+TrCoreKt,ATTACK,攻击
+TrCoreKt,CHANGE FOLDER,更改文件夹
+TrCoreKt,CHOOSE FOLDER,选择文件夹
+TrCoreKt,DEFENSE,防御
+TrCoreKt,FETCHING…,正在获取…
+TrCoreKt,HP,生命值
+TrCoreKt,ITEMS,道具
+TrCoreKt,KEY ITEMS,重要道具
+TrCoreKt,LOAD,读取
+TrCoreKt,LOADING,加载中
+TrCoreKt,PRESS START,按 START 开始
+TrCoreKt,Your party shows up here once you're in the game.,进入游戏后，这里会显示你的宝可梦队伍。
+TrCoreKt,NOT SUPPORTED,不支持
+TrCoreKt,Only folders on this device's own storage are supported,仅支持此设备本机存储中的文件夹
+TrCoreKt,SAVE STATES,即时存档
+TrCoreKt,SAVE,保存
+TrCoreKt,SP. ATK,特攻
+TrCoreKt,SP. DEF,特防
+TrCoreKt,SPEED,速度
+TrCoreKt,SPECIAL,特殊
+TrCoreKt,Settings,设置
+TrCoreKt,TOTAL,总计
+TrCoreKt,UNLOCKED,已解锁
+TrCoreKt,paste key here,在此粘贴密钥
+TrLibraryKt,"To change one, tap it and press the button you want for it. The D-pad and analog stick are fixed.",要更改按键，请点选它，再按下你想映射的实体按钮。方向键和摇杆不能修改。
+TrLibraryKt,"Which button on your device presses each GBA button - key bindings, or remapping, in other emulators. Check A and B first: some devices print them the other way round.",设置设备上的按键对应哪个 GBA 按钮，相当于其他模拟器的按键映射。请先检查 A、B 键，有些设备的标识方向相反。
+TrLibraryKt,You can change this later in SETTINGS > GAME BUTTONS.,之后可在“设置 > 游戏按键”中修改。
+TrLibraryKt,PARTIALLY SUPPORTED,部分支持
+TrLibraryKt,"Supported (best effort, as {0})",基本支持（按 {0} 识别）
+TrLibraryKt,"Partly (best effort, as {0})",部分支持（按 {0} 识别）
+TrLibraryKt,FORGET MATCH,清除识别结果
+TrLibraryKt,SAVE FOLDER,存档文件夹
+TrLibraryKt,DEFAULT SAVE FOLDER,默认存档文件夹
+TrLibraryKt,Save copied to {0},存档已复制到 {0}
+TrLibraryKt,Toggle view,切换视图
+TrLibraryKt,Import ROM,导入 ROM
+TrLibraryKt,Add games,添加游戏
+TrLibraryKt,ADD GAMES,添加游戏
+TrLibraryKt,ADD A ROM FILE,添加 ROM 文件
+TrLibraryKt,ADD A ROMS FOLDER,添加 ROM 文件夹
+TrLibraryKt,MANAGE ROMS FOLDERS,管理 ROM 文件夹
+TrLibraryKt,That folder is already linked,此文件夹已添加
+TrLibraryKt,Already linked through {0},已通过 {0} 添加
+TrLibraryKt,Looking for games…,正在查找游戏…
+TrLibraryKt,{0} folder(s) couldn't be read,无法读取 {0} 个文件夹
+TrLibraryKt,Refresh,刷新
+TrLibraryKt,"No ROMs yet. Tap + to add a ROM file (a .gba, .zip or .7z) or your ROMs folders, or drop files into {0}",还没有 ROM。点击 + 添加 ROM 文件（.gba、.zip、.7z）或 ROM 文件夹，也可以将文件放入 {0}。
+TrLibraryKt,ALL GAMES,所有游戏
+TrLibraryKt,RECENTLY PLAYED,最近玩过
+TrLibraryKt,PLAYING,正在游玩
+TrLibraryKt,Save file exists,已有存档文件
+TrLibraryKt,ROM options,ROM 选项
+TrLibraryKt,RENAME,重命名
+TrLibraryKt,REPLACE COVER,更换封面
+TrLibraryKt,SET COVER,设置封面
+TrLibraryKt,RESET COVER,重置封面
+TrLibraryKt,LOAD SAVE,读取存档
+TrLibraryKt,RESTORE BACKUP,恢复备份
+TrLibraryKt,HIDE,隐藏
+TrLibraryKt,Name shown in the list (display only - the file keeps its name).,游戏库显示的名称（仅改变显示名称，不会重命名文件）。
+TrLibraryKt,Hidden - show it again in Settings > Hidden games,已隐藏。可在“设置 > 隐藏的游戏”中恢复显示
+TrLibraryKt,"{0} isn't supported by the second screen: the game plays, but the companion can't show its party, map, items or battles. Add it anyway?",第二屏不支持 {0}。游戏可以运行，但辅助屏无法显示队伍、地图、道具和战斗信息。仍要添加吗？
+TrLibraryKt,PLAY,开始游戏
+TrLibraryKt,ADD,添加
+TrLibraryKt,No GBA ROM in {0},{0} 中没有 GBA ROM
+TrLibraryKt,Library refreshed: {0},游戏库已刷新：{0}
+TrLibraryKt,Refreshing library…,正在刷新游戏库…
+TrLibraryKt,1 game,1 个游戏
+TrLibraryKt,{0} games,{0} 个游戏
+TrLibraryKt,{0} new,新增 {0} 个
+TrLibraryKt,{0} not supported,{0} 个不受支持
+TrLibraryKt,Couldn't read your ROMs folder - check All files access in SETTINGS > FOLDERS,无法读取 ROM 文件夹，请在“设置 > 文件夹”中检查所有文件访问权限
+TrLibraryKt,the picked file,所选文件
+TrLibraryKt,Couldn't read {0},无法读取 {0}
+TrLibraryKt,{0} is too big to be a GBA save,{0} 过大，不是有效的 GBA 存档
+TrLibraryKt,No backups of this game's save yet,此游戏尚无存档备份
+TrLibraryKt,LOAD SAVE?,读取存档？
+TrLibraryKt,"{0}: replace its save with {1}? The current save is kept, renamed to {2}.",要将 {0} 的存档替换为 {1} 吗？原存档会保留并重命名为 {2}。
+TrLibraryKt,{0} has no save yet: use {1} as its save?,{0} 尚无存档。要使用 {1} 作为存档吗？
+TrLibraryKt,"The game starts from this save next time, not from where you left off.",下次启动游戏会从该存档开始，而不是上次离开的位置。
+TrLibraryKt,This doesn't look like a GBA save file.,这似乎不是有效的 GBA 存档文件。
+TrLibraryKt,Save loaded - the old one is {0},存档已读取，原存档保存在 {0}
+TrLibraryKt,Save loaded,存档读取成功
+TrLibraryKt,Can't rename the current save in {0} - no write access there,无法重命名 {0} 中的存档，因为没有写入权限
+TrLibraryKt,Can't write the save to {0},无法将存档写入 {0}
+TrLibraryKt,DELETE ROM?,删除 ROM？
+TrLibraryKt,{0}: removes the .{1} file. Saves and save states are kept.,将删除 {0} 的 .{1} 文件，游戏存档和即时存档不会删除。
+TrLibraryKt,Add a SteamGridDB or RetroAchievements Web API key in Settings > Cover Art first.,请先在“设置 > 封面图片”中添加 SteamGridDB 或 RetroAchievements Web API 密钥。
+TrLibraryKt,COULDN'T REACH SteamGridDB,无法连接 SteamGridDB
+TrLibraryKt,NO ICONS FOR THIS GAME YET,此游戏暂无图标
+TrLibraryKt,NO COVER FOR THIS GAME YET,此游戏暂无封面
+TrLibraryKt,"NO GAMES MATCH ""{0}""",没有匹配“{0}”的游戏
+TrLibraryKt,game name,游戏名称
+TrLibraryKt,SEARCH,搜索
+TrLibraryKt,SAVING COVER…,正在保存封面…
+TrLibraryKt,LOADING…,正在加载…
+TrLibraryKt,OTHER GAMES,其他游戏
+TrLibraryKt,WHICH GAME?,哪款游戏？
+TrLibraryKt,COULDN'T DOWNLOAD THAT ONE - TRY ANOTHER,下载失败，请换一个试试
+TrLibraryKt,REPLACING COVERS… {0} / {1},正在更换封面… {0} / {1}
+TrLibraryKt,FETCHING COVERS… {0} / {1},正在获取封面… {0} / {1}
+TrLibraryKt,"DONE — {0} NEW, {1} UNCHANGED",完成：新增 {0} 个，{1} 个未改变
+TrLibraryKt,"DONE — {0} ROM(S) CHECKED, {1} NEW COVER(S)",完成：检查 {0} 个 ROM，新增 {1} 张封面
+TrLibraryKt,FETCHED,已获取
+TrLibraryKt,REPLACED,已替换
+TrLibraryKt,KEPT (NO NEW ART),已保留（无新图片）
+TrLibraryKt,CACHED,已缓存
+TrLibraryKt,MANUAL,手动
+TrLibraryKt,NO ICON FOUND,未找到图标
+TrLibraryKt,NO API KEY,未设置 API 密钥
+TrLibraryKt,NAME,名称
+TrLibraryKt,GAME,游戏
+TrLibraryKt,Unknown,未知
+TrLibraryKt,SECOND SCREEN,第二屏
+TrLibraryKt,Supported,支持
+TrLibraryKt,Not supported,不支持
+TrLibraryKt,NEW,新增
+TrLibraryKt,Sort,排序
+TrLibraryKt,SORT BY,排序方式
+TrLibraryKt,DATE ADDED,添加日期
+TrLibraryKt,FAVORITE,收藏
+TrLibraryKt,UNFAVORITE,取消收藏
+TrLibraryKt,Favorite,收藏
+TrLibraryKt,LAST PLAYED,上次游玩
+TrLibraryKt,RECENT,最近
+TrLibraryKt,HACKS,改版游戏
+TrLibraryKt,No favorites yet. Long press a game and pick FAVORITE to keep it here.,还没有收藏。长按游戏并选择“收藏”，即可在这里找到它。
+TrLibraryKt,"No games played yet. The games you play show here, the last one first.",还没有游玩记录。玩过的游戏会按最近游玩顺序显示在这里。
+TrLibraryKt,#{0} in recent games,最近游玩的第 {0} 个游戏
+TrLibraryKt,COVER,封面
+TrLibraryKt,Picked by you,你手动选择的
+TrLibraryKt,From SteamGridDB,来自 SteamGridDB
+TrLibraryKt,From RetroAchievements,来自 RetroAchievements
+TrLibraryKt,,无
+TrLibraryKt,FILE,文件
+TrLibraryKt,FOLDER,文件夹
+TrLibraryKt,FROM,来源
+TrLibraryKt,Your ROMs folder (played in place),你的 ROM 文件夹（直接在原位置运行）
+TrLibraryKt,Imported from {0},从 {0} 导入
+TrLibraryKt,Imported,已导入
+TrLibraryKt,SIZE,大小
+TrLibraryKt,MODIFIED,修改时间
+TrLibraryKt,HEADER TITLE,ROM 内部标题
+TrLibraryKt,GAME CODE,游戏代码
+TrLibraryKt,REVISION,修订版本
+TrLibraryKt,SAVE FILE,存档文件
+TrLibraryKt,None yet - made by the game's first save,暂无，首次在游戏中保存后创建
+TrLibraryKt,WILL BE,将会
+TrLibraryKt,BACKUPS,备份
+TrLibraryKt,{0} · newest {1},{0} 个，最新：{1}
+TrLibraryKt,SLOTS,存档槽
+TrLibraryKt,{0} of {1} used,已使用 {0}／{1}
+TrLibraryKt,NEWEST,最新
+TrLibraryKt,Slot {0} · {1},槽位 {0} · {1}
+TrLibraryKt,RESUME,继续游戏
+TrLibraryKt,Starts fresh from the save next time,下次从游戏存档重新开始
+TrLibraryKt,Picks up where you left off ({0}),从上次离开的位置继续（{0}）
+TrLibraryKt,SET,设置
+TrLibraryKt,Unavailable,不可用
+TrLibraryKt,Couldn't reach RetroAchievements,无法连接 RetroAchievements
+TrLibraryKt,RA HASH,RA 哈希值
+TrLibraryKt,None for this ROM,该 ROM 暂无记录
+TrLibraryKt,Game #{0},游戏 #{0}
+TrLibraryKt,Sign in (Settings > RetroAchievements) to see yours,请在“设置 > RetroAchievements”登录后查看
+TrLibraryKt,None yet,暂无
+TrLibraryKt,{0} of {1},{0}／{1}
+TrLibraryKt,{0} hardcore,硬核 {0}
+TrLibraryKt,Couldn't load your progress,无法加载进度
+TrLibraryKt,CRASH REPORTS?,启用崩溃报告？
+TrLibraryKt,"When PokéDaisy crashes, it can send a report so the bug gets fixed sooner: the device model, Android version and where the app crashed. Never your ROMs, saves or anything personal. You can change this any time in Settings.",PokéDaisy 崩溃时可以发送报告，帮助开发者更快修复问题。报告包含设备型号、Android 版本和崩溃位置，不包含 ROM、存档或个人资料。你可随时在设置中更改。
+TrLibraryKt,SEND REPORTS,发送报告
+TrLibraryKt,PokéDaisy {0} is the newest version,PokéDaisy {0} 已是最新版本
+TrLibraryKt,THE DOWNLOAD ISN'T A POKéDAISY UPDATE - NOT INSTALLED,下载的文件不是 PokéDaisy 更新包，未安装
+TrLibraryKt,THE DOWNLOAD FAILED - CHECK THE CONNECTION AND TRY AGAIN,下载失败，请检查网络后重试
+TrLibraryKt,"Allow PokéDaisy to install apps, then come back",请允许 PokéDaisy 安装应用，然后返回
+TrLibraryKt,ANDROID'S INSTALLER DIDN'T OPEN - GET THE APK FROM THE RELEASE PAGE,未能打开 Android 安装程序，请从发布页面下载 APK
+TrLibraryKt,UPDATE AVAILABLE,有可用更新
+TrLibraryKt,PokéDaisy {0} is out - you have {1}.,PokéDaisy {0} 已发布，你当前使用的是 {1}。
+TrLibraryKt,DOWNLOADING… {0}%,正在下载… {0}%
+TrLibraryKt,LATER,稍后
+TrLibraryKt,RELEASE PAGE,发布页面
+TrLibraryKt,UPDATE,更新
+TrLibraryKt,ENJOYING POKéDAISY?,喜欢 PokéDaisy 吗？
+TrLibraryKt,Thank you for playing!,感谢游玩！
+TrLibraryKt,"PokéDaisy is free, has no ads and is made by one person in their spare time. If it has made your games better and you'd like to see it grow, with more games and more features, a small tip goes a long way.",PokéDaisy 免费、没有广告，由一位开发者利用业余时间制作。如果它改善了你的游戏体验，并且你希望看到更多支持的游戏和新功能，欢迎考虑小额赞助。
+TrLibraryKt,"Free, no ads, made by one person. A small tip helps PokéDaisy grow.",免费、无广告，由个人独立开发。小额赞助能帮助 PokéDaisy 持续成长。
+TrLibraryKt,REMIND ME LATER,以后再提醒我
+TrLibraryKt,No ROM was passed to PokeDaisy,没有向 PokeDaisy 传入 ROM
+TrLibraryKt,Copying {0}…,正在复制 {0}…
+TrLibraryKt,Unpacking {0}…,正在解压 {0}…
+TrLibraryKt,"PokeDaisy can't read {0} - allow All files access, then launch again",PokeDaisy 无法读取 {0}。请授予所有文件访问权限后重新启动
+TrLibraryKt,PokeDaisy can't read {0},PokeDaisy 无法读取 {0}
+TrLibraryKt,No ROM found. Put a .gba (or .zip / .7z) in {0},未找到 ROM。请将 .gba（或 .zip／.7z）文件放到 {0}
+TrLibraryKt,Saved slot {0},已保存到槽位 {0}
+TrLibraryKt,Slot {0}: save failed,槽位 {0}：保存失败
+TrLibraryKt,Loaded slot {0},已读取槽位 {0}
+TrLibraryKt,Slot {0}: nothing to load,槽位 {0}：没有可读取的存档
+TrLibraryKt,Undid save (slot {0}),已撤销保存（槽位 {0}）
+TrLibraryKt,Nothing to undo,没有可撤销的操作
+TrLibraryKt,Undid load,已撤销读取
+TrLibraryKt,Slot {0} (used),槽位 {0}（已使用）
+TrLibraryKt,Slot {0} (empty),槽位 {0}（空）
+TrLibraryKt,WELCOME TO POKéDAISY,欢迎使用 PokéDaisy
+TrLibraryKt,SKIP,跳过
+TrLibraryKt,DONE,完成
+TrLibraryKt,NEXT|continue,下一步
+TrLibraryKt,YOUR ROMS FOLDERS,你的 ROM 文件夹
+TrLibraryKt,"Pick the folders you keep your games in. PokéDaisy adds every game from them that the second screen supports, plays them right where they are (nothing is copied), and looks for new ones each time you open the app.",选择存放游戏的文件夹。PokéDaisy 会将第二屏支持的游戏加入游戏库，直接在原位置运行而不复制文件，并在每次打开时检查新游戏。
+TrLibraryKt,This is optional: skip it and add games one at a time with + in the library. You can add folders later with + or in SETTINGS > FOLDERS.,此步骤可以跳过。之后可以在游戏库中点击 + 逐个添加游戏，也可以通过 + 或“设置 > 文件夹”添加文件夹。
+TrLibraryKt,"Android asks you to allow All files access first, so PokéDaisy can open games and saves outside its own folder. Turn it on and come back here.",Android 需要你先授予所有文件访问权限，以便 PokéDaisy 读取自身目录之外的游戏和存档。开启后请返回这里。
+TrLibraryKt,LOOKING FOR GAMES… {0} / {1},正在查找游戏… {0} / {1}
+TrLibraryKt,"No supported games in there. Add another folder, or skip and add games with + later.",此文件夹没有受支持的游戏。请添加其他文件夹，或跳过并稍后点击 + 添加。
+TrLibraryKt,FOUND 1 GAME,找到 1 个游戏
+TrLibraryKt,FOUND {0} GAMES,找到 {0} 个游戏
+TrLibraryKt,GAME SAVES,游戏存档
+TrLibraryKt,"Where should your saves go? If you already play these games in another emulator, pick its save folder (RetroArch's, for one) and carry on with the same saves: a game finds its save by the ROM's file name (.sav or .srm).",存档要保存在哪里？如果你已在其他模拟器中玩这些游戏，可选择它的存档文件夹（例如 RetroArch），继续使用相同存档。程序会根据 ROM 文件名查找 .sav 或 .srm 文件。
+TrLibraryKt,KEEP THEM IN POKéDAISY,保存在 PokéDaisy 内
+TrLibraryKt,DEFAULT,默认
+TrLibraryKt,1 SAVE,1 个存档
+TrLibraryKt,{0} SAVES,{0} 个存档
+TrLibraryKt,CHOOSE ANOTHER FOLDER…,选择其他文件夹…
+TrLibraryKt,"Choosing a folder asks for All files access first, as games and saves are opened by path.",选择文件夹前需要授予所有文件访问权限，因为游戏和存档通过文件路径读取。
+TrLibraryKt,You can change this later in SETTINGS > FOLDERS.,之后可在“设置 > 文件夹”中修改。
+TrLibraryKt,COVER ART (OPTIONAL),封面图片（可选）
+TrLibraryKt,"Library covers are box art from RetroAchievements, or icons from SteamGridDB for games it doesn't have. Each needs your own free key: open the site, copy the key and paste it below - one is enough.",游戏库封面来自 RetroAchievements 的盒装封面，或 SteamGridDB 提供的图标。两者都需要你自己的免费 API 密钥：打开相应网站，复制并在下方粘贴密钥，设置其中一个即可。
+TrLibraryKt,Skip this if you like - you can add a key any time in SETTINGS > COVER ART.,可以跳过，之后随时在“设置 > 封面图片”中添加密钥。
+TrLibraryKt,OPEN {0},打开 {0}
+TrLibraryKt,GET KEY,获取密钥
+TrLibraryKt,SD CARD,SD 卡
+TrLibraryKt,Game restarted,游戏已重新启动
+TrLibraryKt,Fast-forward,快进
+TrLibraryKt,WHAT'S NEW,更新内容
+TrLibraryKt,FIXES,问题修复
+TrLibraryKt,NEW: EXPAND,新功能：拓展画面
+TrLibraryKt,"See more of the world around you. EXPAND draws the map past the game's edges, so the whole screen is the game: no black bars, nothing stretched.",拓展画面可以让你看到更大的游戏世界：EXPAND 会将地图绘制到原始画面边界之外，填满整个屏幕，没有黑边，也不会拉伸画面。
+TrLibraryKt,"Press R3 to zoom out and see further, and look around with the right stick. Battles, menus and conversations zoom back in by themselves.",按 R3 缩小画面以看到更远处，使用右摇杆观察四周。进入战斗、菜单或对话时会自动恢复缩放。
+TrLibraryKt,"Works in selected games, with more added all the time. Change it any time in SETTINGS > ASPECT.",目前支持部分游戏，后续会继续增加。你可随时在“设置 > 画面比例”中修改。
+TrLibraryKt,Change it any time in SETTINGS > ASPECT.,你可随时在“设置 > 画面比例”中修改。
+TrLibraryKt,EXPAND WORKS IN THIS GAME,此游戏支持拓展画面
+TrLibraryKt,NOT NOW,暂不启用
+TrLibraryKt,TURN ON,开启
+TrLibraryKt,EXPAND hit a problem and is off for this game,拓展画面出现问题，已为此游戏关闭
+TrLibraryKt,Zoom {0},缩放 {0}
+TrLibraryKt,Zoom needs ASPECT > EXPAND,缩放功能需要先启用“画面比例 > 拓展画面”
+TrLibraryKt,Soft reset,软重置
+TrLibraryKt,Rewinding,正在倒带
+TrLibraryKt,Rewind is off - turn it on in SETTINGS,倒带功能已关闭，请在设置中开启
+TrLibraryKt,Slow-motion ½×,慢动作 ½×
+TrLibraryKt,Normal speed,正常速度
+TrLibraryKt,Speed {0}×,速度 {0}×
+TrLibraryKt,"Your save changed since you last played here, so the game started from the save file",自上次游玩后存档已发生变化，因此游戏从存档文件启动
+TrLibraryKt,ScreenScraper stopped: {0},ScreenScraper 已停止：{0}
+TrLibraryKt,No account in the answer,服务器响应中没有账号信息
+TrLibraryKt,This build has no ScreenScraper developer access,此版本没有 ScreenScraper 开发者访问权限
+TrLibraryKt,Wrong username or password,用户名或密码错误
+TrLibraryKt,Game not found,未找到游戏
+TrLibraryKt,ScreenScraper's API is closed for now,ScreenScraper API 暂时不可用
+TrLibraryKt,ScreenScraper doesn't accept this app version,ScreenScraper 不接受此应用版本
+TrLibraryKt,Too many requests at once,同时发出的请求过多
+TrLibraryKt,Today's ScreenScraper quota is used up,今日 ScreenScraper 配额已用完
+TrLibraryKt,Too many unknown ROMs today,今日未知 ROM 数量过多
+TrLibraryKt,Can't reach ScreenScraper - check the connection,无法连接 ScreenScraper，请检查网络
+TrLibraryKt,{0} OF {1} REQUESTS USED TODAY,今日已使用 {0}／{1} 次请求
+TrLibraryKt,screenscraper.fr username,screenscraper.fr 用户名
+TrLibraryKt,NO ACCOUNT? SIGN UP,没有账号？立即注册
+TrLibraryKt,NEW: GAME MEDIA FROM SCREENSCRAPER,新功能：来自 ScreenScraper 的游戏媒体
+TrLibraryKt,"Box art, screenshots, title screens, logos, videos and each game's story for your whole library, from ScreenScraper.fr. It comes first for covers, and with two screens the library shows the game you're on, in full, on the other one.",从 ScreenScraper.fr 获取整个游戏库的封面、截图、标题画面、Logo、视频和游戏简介。封面会优先使用该服务的图片；双屏设备会在另一块屏幕完整展示当前选中游戏的资料。
+TrLibraryKt,It needs a free screenscraper.fr account. Set it up now?,这需要一个免费的 screenscraper.fr 账号。现在设置吗？
+TrLibraryKt,SIGNED IN AS {0},已登录为 {0}
+TrLibraryKt,GAME MEDIA (OPTIONAL),游戏媒体（可选）
+TrLibraryKt,"ScreenScraper.fr has box art, screenshots, title screens, logos, videos and each game's story. Sign in with your free account and PokéDaisy fetches them for every game: covers in the library, and with two screens, everything about the game you're on on the other screen.",ScreenScraper.fr 提供游戏封面、截图、标题画面、Logo、视频和简介。登录免费账号后，PokéDaisy 会为游戏库中的每款游戏获取资料；双屏设备还能在另一块屏幕显示所选游戏的完整信息。
+TrLibraryKt,Skip this if you like - sign in any time in SETTINGS > SCREENSCRAPER.,可以跳过，以后随时在“设置 > ScreenScraper”中登录。
+TrLibraryKt,"ScreenScraper.fr has box art, screenshots, title screens, logos, videos and each game's story. With your free account, PokéDaisy fetches them once per game and keeps them on the device. Its box art comes first for library covers, and with two screens the launcher shows the game you're on, in full, on the other one.",ScreenScraper.fr 提供游戏封面、截图、标题画面、Logo、视频和简介。登录免费账号后，PokéDaisy 会为每款游戏获取一次资料并保存在本机。游戏库优先使用它的封面，双屏启动器会在另一块屏幕完整显示所选游戏的信息。
+TrLibraryKt,DOWNLOAD VIDEOS,下载视频
+TrLibraryKt,FETCH MEDIA NOW,立即获取媒体
+TrLibraryKt,DUAL-SCREEN LAUNCHER,双屏启动器
+TrLibraryKt,OPEN,打开
+TrLibraryKt,OPTIONS,选项
+TrLibraryKt,SWAP,交换
+TrLibraryKt,RELEASED,发行日期
+TrLibraryKt,DEVELOPER,开发商
+TrLibraryKt,PUBLISHER,发行商
+TrLibraryKt,GENRE,类型
+TrLibraryKt,PLAYERS,玩家人数
+TrLibraryKt,RATING,评分
+TrLibraryKt,"Sign in to ScreenScraper in SETTINGS for this game's box art, screenshots, video and story.",请在设置中登录 ScreenScraper，以获取此游戏的封面、截图、视频和简介。
+TrLibraryKt,ScreenScraper has nothing for this game yet.,ScreenScraper 暂无此游戏的资料。
+TrLibraryKt,From ScreenScraper,来自 ScreenScraper
+TrLibraryKt,Show password,显示密码
+TrLibraryKt,Hide password,隐藏密码
+TrLibraryKt,ScreenScraper says: {0},ScreenScraper 返回：{0}
+TrLibraryKt,ScreenScraper sent an answer the app can't read,ScreenScraper 返回了无法识别的响应
+TrLibraryKt,"This build has no ScreenScraper developer login, so ScreenScraper may refuse to sign in. Release builds have one.",当前构建不含 ScreenScraper 开发者登录凭据，可能无法登录。正式发布版包含该凭据。
+TrLibraryKt,PC BOXES,电脑盒子
+TrLibraryKt,"PC BOXES reads FireRed, LeafGreen, Emerald, Ruby and Sapphire saves (and builds that keep their save layout). This game's isn't one yet.",电脑盒子支持读取火红、叶绿、绿宝石、红宝石和蓝宝石及存档格式兼容的改版游戏。当前游戏的存档尚不支持。
+TrLibraryKt,No save yet - save once in the game first.,还没有存档，请先在游戏中保存一次。
+TrLibraryKt,Can't read the save {0},无法读取存档 {0}
+TrLibraryKt,"This save doesn't look like a {0} save ({1}), so it's left alone.",这个存档不像是 {0} 的存档（{1}），因此未作修改。
+TrLibraryKt,Saved. The previous save is in {0},保存成功。原存档位于 {0}
+TrLibraryKt,Reading the save…,正在读取存档…
+TrLibraryKt,The save changed since it was opened - open it again,存档在打开后被修改，请重新打开。
+TrLibraryKt,Can't back up the save in {0} - nothing was changed,无法备份 {0} 中的存档，未修改任何内容。
+TrLibraryKt,The save didn't read back as written - the backup was put back,写入后存档校验失败，已恢复备份。
+TrLibraryKt,Too small for a Gen 3 save ({0} bytes),文件过小，不是有效的第三世代存档（{0} 字节）
+TrLibraryKt,The save is empty - save once in the game first,存档为空，请先在游戏中保存一次。
+TrLibraryKt,Neither save slot is intact - the game would call this save corrupted,两个存档槽都已损坏，游戏会将此存档视为损坏。
+TrLibraryKt,The save's sectors disagree on its save counter,存档各扇区的保存计数不一致
+TrLibraryKt,Tap where it goes - any box,点击想要放入的位置，可以选择任意盒子
+TrLibraryKt,Not saved yet,尚未保存
+TrLibraryKt,UNDO ALL,全部撤销
+TrLibraryKt,SAVE CHANGES?,保存修改？
+TrLibraryKt,"Written the way the game saves: the save as it is now stays in the file as the game's fallback, and a copy goes to pokedaisy-backups. The game starts from the save next time, not from a resume state.",存档将按游戏原本的格式写入：当前存档保留在原文件中供游戏备用，另有一份复制到 pokedaisy-backups。下次启动会从游戏存档开始，而不是即时恢复状态。
+TrLibraryKt,DISCARD CHANGES?,放弃修改？
+TrLibraryKt,Your changes aren't saved. Leave without saving them?,修改尚未保存，要不保存直接离开吗？
+TrLibraryKt,DISCARD,放弃
+TrLibraryKt,ID No.,ID 编号
+TrLibraryKt,Previous box,上一个盒子
+TrLibraryKt,Next box,下一个盒子
+TrLibraryKt,"Tap a Pokémon to see it, then MOVE to put it in another slot.",点击宝可梦查看详情，然后选择“移动”将其放入其他槽位。
+TrLibraryKt,STATE,状态
+TrLibraryKt,BAD EGG,坏蛋
+TrLibraryKt,EGG,蛋
+TrLibraryKt,SPECIES,种类
+TrLibraryKt,LEVEL,等级
+TrLibraryKt,ITEM,道具
+TrLibraryKt,OT,原训练家
+TrLibraryKt,BOXES,盒子
+TrLibraryKt,MONEY,金钱
+TrLibraryKt,COINS,代币
+TrLibraryKt,ADD ITEM,添加道具
+TrLibraryKt,ADD MOVE,添加招式
+TrLibraryKt,MIN,最小
+TrLibraryKt,Tap its item or a move to change it,点击携带道具或招式即可修改
+TrLibraryKt,Key items and HMs stay as the game gave them,重要道具和秘传招式保持游戏原始状态
+TrLibraryKt,No other game here has a save PC BOXES can read,这里没有其他可由“电脑盒子”读取存档的游戏
+TrLibraryKt,TRADE WITH,交换对象
+TrLibraryKt,Both games use the same save file,两个游戏使用同一个存档文件
+TrLibraryKt,A Bad Egg can't be traded,坏蛋不能交换
+TrLibraryKt,"{0} has no National Dex yet, so no eggs",{0} 尚未获得全国图鉴，因此不能交换蛋
+TrLibraryKt,"{0} has no National Dex yet, so no {1}",{0} 尚未获得全国图鉴，因此不能交换 {1}
+TrLibraryKt,"This {0} isn't from an event, so the games won't trade it",这只 {0} 不是活动获得的，游戏不允许交换
+TrLibraryKt,Mail and Enigma Berries stay with their save: take it off in the game first,信件与谜芝果必须留在原存档中，请先在游戏里取下。
+TrLibraryKt,"{0} links with Ruby, Sapphire and Emerald only after the Sevii Islands",{0} 需要完成七之岛相关进度后，才能与红宝石、蓝宝石和绿宝石联机。
+TrLibraryKt,There's no Pokémon there,该位置没有宝可梦
+TrLibraryKt,That slot isn't empty,该槽位不是空的
+TrLibraryKt,{0} goes to {1},{0} 前往 {1}
+TrLibraryKt,{0} for {1},用 {0} 交换 {1}
+TrLibraryKt,"Pick a slot on each side: a Pokémon for a Pokémon, or one for an empty slot",在双方各选择一个槽位，可交换两只宝可梦，或将一只转移到空槽位。
+TrLibraryKt,SEND,发送
+TrLibraryKt,SAVE BOTH?,保存双方存档？
+TrLibraryKt,"Both saves are written the way the game saves, each backed up to pokedaisy-backups first. If the second can't be written, the first is put back, so no Pokémon is lost or copied.",双方存档都会按游戏原本的格式写入，并先备份至 pokedaisy-backups。如果第二份存档写入失败，将恢复第一份存档，确保不会丢失或复制任何宝可梦。
+TrLibraryKt,The trades you made aren't saved. Leave without saving them?,交换结果尚未保存，要不保存直接离开吗？
+TrLibraryKt,EVOLVING!,正在进化！
+TrLibraryKt,{0} evolves into {1} when it arrives.,{0} 抵达后会进化为 {1}。
+TrLibraryKt,DON'T EVOLVE,取消进化
+TrSettingsKt,HELP,帮助
+TrSettingsKt,Help,帮助
+TrSettingsKt,"Help, bug reports, ideas and chat",帮助、错误反馈、建议与交流
+TrSettingsKt,The manual: how every screen and setting works,使用手册：了解每个界面和设置
+TrSettingsKt,LOADING THE MANUAL…,正在加载使用手册…
+TrSettingsKt,The manual comes from pokedaisy.com and is kept for reading offline. Connect to the internet once to get it.,使用手册来自 pokedaisy.com，会保存在本机供离线阅读。首次获取需要联网一次。
+TrSettingsKt,RETRY,重试
+TrSettingsKt,SEARCH THE MANUAL (e.g. FAST-FORWARD),搜索使用手册（例如：快进）
+TrSettingsKt,PREVIOUS,上一步
+TrSettingsKt,TIP,提示
+TrSettingsKt,NOTE,注意
+TrSettingsKt,HEADS UP,请注意
+TrSettingsKt,Which game this ROM is read as,此 ROM 被识别为哪款游戏
+TrSettingsKt,"Key bindings: which button presses A, B, START...",按键映射：设置 A、B、START 等按钮
+TrSettingsKt,KEY IN USE,按键已被使用
+TrSettingsKt,MOVE,移动
+TrSettingsKt,{0} is already {1}. Move it to {2}?,{0} 已设置为 {1}，要改为 {2} 吗？
+TrSettingsKt,CLEAR {0},清除 {0}
+TrSettingsKt,"Party Pokémon icons bounce, like in the game",让队伍中的宝可梦图标像游戏中一样弹跳
+TrSettingsKt,The MAP cursor pulses between two sizes,地图光标会在两种大小之间闪动
+TrSettingsKt,Tabs slide in. Off: they switch at once,标签页滑入动画。关闭后立即切换
+TrSettingsKt,"A battle opens BATTLE, then goes back",进入战斗时自动打开战斗面板，结束后返回
+TrSettingsKt,SEARCH SETTINGS (e.g. KEY BINDINGS),搜索设置（例如：按键映射）
+TrSettingsKt,"NOTHING MATCHES ""{0}""",未找到与“{0}”匹配的结果
+TrSettingsKt,ALSO LOOK IN,也可以在以下位置查找
+TrSettingsKt,ROMS FOLDERS,ROM 文件夹
+TrSettingsKt,{0} GAME(S),{0} 个游戏
+TrSettingsKt,Link the folders you keep your games in: their supported ROMs join the library and play from there.,添加你存放游戏的文件夹。受支持的 ROM 会出现在游戏库中，并从原位置运行。
+TrSettingsKt,"You can add several. Picking just the folders with your games (gba, gbc, nds) is quicker to look through than one big folder of everything.",可以添加多个文件夹。单独选择存放 gba、gbc、nds 等游戏的文件夹，比扫描整个大文件夹更快。
+TrSettingsKt,Where the library finds your games,游戏库从哪里查找游戏
+TrSettingsKt,Where new saves go,新存档的保存位置
+TrSettingsKt,More folders to find a game's save in,其他可用于查找游戏存档的文件夹
+TrSettingsKt,The app's own save states,应用自身的即时存档
+TrSettingsKt,ADD FOLDER,添加文件夹
+TrSettingsKt,"A game's save found in one of these folders is played and saved right there, so another emulator keeps seeing it. New saves go to the GAME SAVES folder. A game can have its own folder too: SAVE FOLDER in its library menu.",如果在这些文件夹中找到游戏存档，就直接读取并保存到原位置，其他模拟器也能继续使用。新存档保存在“游戏存档”文件夹。也可在游戏库的“存档文件夹”中为单个游戏指定位置。
+TrSettingsKt,HOTKEYS,快捷键
+TrSettingsKt,GAME BUTTONS,游戏按键
+TrSettingsKt,DS GAMES,DS 游戏
+TrSettingsKt,GBA AND GAME BOY,GBA 与 Game Boy
+TrSettingsKt,TO COMPANION,移至辅助屏
+TrSettingsKt,A second START,第二个 START 键
+TrSettingsKt,A second SELECT,第二个 SELECT 键
+TrSettingsKt,"Two screens, on the field: your buttons go to the companion",双屏模式下，探索地图时将按钮移至辅助屏
+TrSettingsKt,FOLDERS,文件夹
+TrSettingsKt,TWEAKS,微调选项
+TrSettingsKt,PARTY ICONS MOVE,队伍图标动画
+TrSettingsKt,MAP CURSOR BLINK,地图光标闪烁
+TrSettingsKt,TAB ANIMATIONS,标签页动画
+TrSettingsKt,JUMP TO BATTLE,自动切至战斗
+TrSettingsKt,CLOSE COMPANION,关闭辅助屏
+TrSettingsKt,OPEN COMPANION,打开辅助屏
+TrSettingsKt,Companion closed. Press BACK to bring it back.,辅助屏已关闭。按返回键重新打开。
+TrSettingsKt,Controller connected: {0},控制器已连接：{0}
+TrSettingsKt,Controller disconnected: {0},控制器已断开：{0}
+TrSettingsKt,RESUME GAMES,继续游戏
+TrSettingsKt,Returns to the ROM list. RESUME GAMES is off: progress since your last in-game save will be lost.,返回 ROM 列表。由于已关闭“继续游戏”，上次游戏内保存之后的进度会丢失。
+TrSettingsKt,Reboots the game and reloads its save from disk. Progress since your last in-game save will be lost.,重新启动游戏并从磁盘读取存档。上次游戏内保存之后的进度将丢失。
+TrSettingsKt,COVER ART,封面图片
+TrSettingsKt,LICENSES,开源许可
+TrSettingsKt,"PokéDaisy and the software it carries, each under its own license.",PokéDaisy 及其包含的软件分别遵循各自的许可协议。
+TrSettingsKt,HIDDEN GAMES,隐藏的游戏
+TrSettingsKt,OPTION,选项
+TrSettingsKt,TAB BAR,标签栏
+TrSettingsKt,FF / SPEED,快进与速度
+TrSettingsKt,GAMEPLAY,游戏玩法
+TrSettingsKt,CONTROLS,操控
+TrSettingsKt,GAME SCREEN,游戏画面
+TrSettingsKt,COMPANION,辅助屏
+TrSettingsKt,AT BOTTOM,位于底部
+TrSettingsKt,COMPANION VIEW,辅助屏视图
+TrSettingsKt,COMPANION BUTTON,辅助屏按钮
+TrSettingsKt,SIDE PANEL,侧边栏
+TrSettingsKt,UNDER GAME,游戏画面下方
+TrSettingsKt,SCREEN,屏幕
+TrSettingsKt,LIBRARY,游戏库
+TrSettingsKt,ONLINE,在线功能
+TrSettingsKt,APP,应用
+TrSettingsKt,FAST-FORWARD,快进
+TrSettingsKt,SPEED OPTIONS,速度选项
+TrSettingsKt,DISPLAY OPTIONS,显示选项
+TrSettingsKt,SINGLE SCREEN,单屏
+TrSettingsKt,"Scene speeds, FF mode and FF music",场景速度、快进模式及快进音频
+TrSettingsKt,FF mode and FF music,快进模式及快进音频
+TrSettingsKt,"Status bar, shaders, overlay",状态栏、着色器与遮罩
+TrSettingsKt,Second screen free; companion over the game,将第二屏留给其他应用，辅助界面叠加在游戏上
+TrSettingsKt,How fast FF runs,快进运行速度
+TrSettingsKt,"The pace with FF off, kept per game",关闭快进时的运行速度，每个游戏单独保存
+TrSettingsKt,Keeps the last 20 s to play backwards,保留最近 20 秒的游戏记录以便倒带
+TrSettingsKt,SMART slows down for menus and the map,智能模式会在菜单和地图中降低快进速度
+TrSettingsKt,What you hear while fast-forwarding,快进时的声音播放方式
+TrSettingsKt,"GameShark, Action Replay and CodeBreaker codes",GameShark、Action Replay 和 CodeBreaker 金手指代码
+TrSettingsKt,"Original shape, stretched, or more of the map",原始比例、拉伸或显示更多地图
+TrSettingsKt,"Party, minimap and bag over the game",在游戏画面上显示队伍、小地图和背包
+TrSettingsKt,"Place, money, clock and battery",位置、金钱、时钟和电池信息
+TrSettingsKt,"LCD, CRT and scanline looks, smoothing",LCD、CRT、扫描线及平滑滤镜
+TrSettingsKt,A frame around the game,在游戏画面周围添加边框
+TrSettingsKt,"A window over the game, or a side panel",将辅助界面作为游戏上方浮窗或侧边栏
+TrSettingsKt,The tab at the right edge that opens it,在屏幕右侧边缘打开辅助界面的标签
+TrSettingsKt,Where it sits with the phone upright,手机竖屏时辅助界面的位置
+TrSettingsKt,Game and companion trade screens,互换游戏画面与辅助屏
+TrSettingsKt,Speed and CPU use in the game's corner,在游戏画面角落显示速度和 CPU 使用情况
+TrSettingsKt,The backdrop of the library and Settings,游戏库与设置页面的背景
+TrSettingsKt,Move ratings and the best pick in battle,战斗中显示招式评分和最佳选择
+TrSettingsKt,Your moves right on the battle menu,在战斗菜单直接显示招式
+TrSettingsKt,The foe's hidden stats in battle,在战斗中显示对手的隐藏能力值
+TrSettingsKt,Which tabs sit next to the gear,哪些标签显示在设置齿轮旁边
+TrSettingsKt,Tabs that aren't on the tab bar are here. Pick the bar's tabs in TAB BAR.,未显示在标签栏中的功能会放在这里。可在“标签栏”中选择要显示的标签。
+TrSettingsKt,Small animations and the battle jump,小动画和自动切换战斗页
+TrSettingsKt,"Button combos for states, FF and more",即时存档、快进等功能的组合快捷键
+TrSettingsKt,The on-screen buttons,屏幕上的虚拟按钮
+TrSettingsKt,Open a game right where you left it,从上次离开的位置继续游戏
+TrSettingsKt,"Game list on one screen, its art on the other",一块屏幕显示游戏列表，另一块显示游戏图片
+TrSettingsKt,Box art from RetroAchievements and SteamGridDB,来自 RetroAchievements 与 SteamGridDB 的游戏封面
+TrSettingsKt,"Where ROMs, saves and states live",ROM、游戏存档和即时存档的存储位置
+TrSettingsKt,Send a report if the app crashes,应用崩溃时发送报告
+TrSettingsKt,"First-time setup again: folders, buttons, art",重新运行初始设置：文件夹、按键和封面
+TrSettingsKt,FF SPEED,快进速度
+TrSettingsKt,INFINITE,无限制
+TrSettingsKt,FF MODE,快进模式
+TrSettingsKt,SMART,智能
+TrSettingsKt,NORMAL,普通
+TrSettingsKt,FF MUSIC,快进音乐
+TrSettingsKt,STEADY,正常音调
+TrSettingsKt,SPED-UP,加速播放
+TrSettingsKt,BETA,测试版
+TrSettingsKt,TOUCH CONTROLS,触屏按键
+TrSettingsKt,ALWAYS,始终
+TrSettingsKt,NEVER,从不
+TrSettingsKt,SWAP SCREENS,交换屏幕
+TrSettingsKt,STATUS BAR,状态栏
+TrSettingsKt,SHADERS,着色器
+TrSettingsKt,FILTER,滤镜
+TrSettingsKt,LCD,液晶屏
+TrSettingsKt,LCD PAPER,纸感液晶屏
+TrSettingsKt,ON COMPANION,应用到辅助屏
+TrSettingsKt,SMOOTHING,平滑处理
+TrSettingsKt,xBRZ,xBRZ
+TrSettingsKt,xBR,xBR
+TrSettingsKt,SCALEFX,ScaleFX
+TrSettingsKt,GRID,网格
+TrSettingsKt,SOFT,柔和
+TrSettingsKt,MEDIUM,中等
+TrSettingsKt,STRONG,强烈
+TrSettingsKt,SCANLINES,扫描线
+TrSettingsKt,CRT,显像管
+TrSettingsKt,LIGHT COMPANION,轻量辅助屏
+TrSettingsKt,"For slow devices: fewer redraws, no animations",适用于性能较弱的设备：减少重绘并关闭动画
+TrSettingsKt,On: this device needs it,开启：此设备需要它
+TrSettingsKt,Off: this device keeps up,关闭：此设备性能足够
+TrSettingsKt,Off while LIGHT COMPANION is on,开启轻量辅助屏时关闭
+TrSettingsKt,UNLIT SCREEN,未点亮的屏幕
+TrSettingsKt,GBA COLORS,GBA 色彩
+TrSettingsKt,ASPECT,画面比例
+TrSettingsKt,AUTO ZOOM IN,自动放大
+TrSettingsKt,DS RESOLUTION,DS 分辨率
+TrSettingsKt,Sharper 3D in DS games,让 DS 游戏中的 3D 画面更清晰
+TrSettingsKt,"1x on dialogue, signs, menus",对话、标识和菜单使用 1×
+TrSettingsKt,STRETCH,拉伸
+TrSettingsKt,ORIGINAL,原始
+TrSettingsKt,EXPAND,拓展画面
+TrSettingsKt,NOT YET,暂不可用
+TrSettingsKt,THEME,主题
+TrSettingsKt,PERFORMANCE,性能
+TrSettingsKt,ON SCREEN,屏幕显示
+TrSettingsKt,LATE,延迟
+TrSettingsKt,FRAME TIME,帧时间
+TrSettingsKt,EMULATION,模拟
+TrSettingsKt,GAME SPEED,游戏速度
+TrSettingsKt,SCENE SPEEDS,场景速度
+TrSettingsKt,BATTLE SPEED,战斗速度
+TrSettingsKt,TEXT SPEED,文本速度
+TrSettingsKt,MENU SPEED,菜单速度
+TrSettingsKt,SAME,相同
+TrSettingsKt,BIKE SPEED,骑车速度
+TrSettingsKt,SURF SPEED,冲浪速度
+TrSettingsKt,AUTO-RUN,自动奔跑
+TrSettingsKt,Holding B walks instead,按住 B 键改为步行
+TrSettingsKt,RUN INDOORS,室内奔跑
+TrSettingsKt,REUSABLE TMS,招式学习器可重复使用
+TrSettingsKt,This game's TMs never run out,此游戏的招式学习器不会消耗
+TrSettingsKt,SHINY ODDS,闪光概率
+TrSettingsKt,SHINY,闪光
+TrSettingsKt,1 IN {0},{0} 分之一
+TrSettingsKt,Save checkers may flag these shinies. Achievements pause.,存档检查工具可能将这些闪光宝可梦标记为异常，成就功能将暂停。
+TrSettingsKt,A TM stays in the bag after use,使用招式学习器后仍会留在背包中
+TrSettingsKt,PLAYER LOOK,主角外观
+TrSettingsKt,Play as another game's hero,使用其他游戏的主角形象
+TrSettingsKt,"Needs FireRed, LeafGreen, Ruby, Sapphire or Emerald too",需要同时拥有火红、叶绿、红宝石、蓝宝石或绿宝石
+TrSettingsKt,MAKEOVER,角色换装
+TrSettingsKt,Other games' looks in this one,在当前游戏中使用其他游戏的外观
+TrSettingsKt,FOLLOWER,跟随宝可梦
+TrSettingsKt,Your first Pokémon walks behind you,让队伍首位的宝可梦跟在身后
+TrSettingsKt,Needs a game with following Pokémon too,还需要一款支持宝可梦跟随功能的游戏
+TrSettingsKt,DAY AND NIGHT,昼夜变化
+TrSettingsKt,"Dusk and night on the map, by your clock",根据设备时间在地图上呈现黄昏与夜晚
+TrSettingsKt,A fresh look for this game,为游戏换上新外观
+TrSettingsKt,TEXT LOOK,文本外观
+TrSettingsKt,Another game's text boxes and letters,使用其他游戏的对话框和字体
+TrSettingsKt,RIVAL LOOK,劲敌外观
+TrSettingsKt,Pick a PLAYER LOOK first,请先选择主角外观
+TrSettingsKt,The rival is dressed up too,劲敌也会更换外观
+TrSettingsKt,The rival keeps their look,劲敌保持原有外观
+TrSettingsKt,WILD ENCOUNTERS,野生遭遇
+TrSettingsKt,"In grass, caves and water",在草丛、洞穴和水面遇敌
+TrSettingsKt,Running inside buildings too,在建筑物内也能奔跑
+TrSettingsKt,AUDIO DROPOUTS,音频断续
+TrSettingsKt,BATTERY,电池
+TrSettingsKt,THERMAL,温度
+TrSettingsKt,MEMORY,内存
+TrSettingsKt,SNAPSHOTS,快照
+TrSettingsKt,BATTLE CHECKS,战斗检测
+TrSettingsKt,TIMER,计时器
+TrSettingsKt,WARM,偏热
+TrSettingsKt,HOT,过热
+TrSettingsKt,THROTTLING,降频中
+TrSettingsKt,FPS / CPU,帧率／CPU
+TrSettingsKt,DARK MODE,深色模式
+TrSettingsKt,VERSION,版本
+TrSettingsKt,CHECKING…,正在检查…
+TrSettingsKt,CRASH REPORTS,崩溃报告
+TrSettingsKt,RUN SETUP,重新运行设置向导
+TrSettingsKt,BATTLE HINTS,战斗提示
+TrSettingsKt,ONE-TAP MOVES,一键选择招式
+TrSettingsKt,FOE IVS,对手个体值
+TrSettingsKt,CLICK SOUND,点击音效
+TrSettingsKt,{0} TABS,{0} 个标签
+TrSettingsKt,"Fills the screen, drawn wider",扩展绘制范围以填满整个屏幕
+TrSettingsKt,"The GBA's 3:2, bars at the sides",保持 GBA 原生 3:2 比例，两侧显示黑边
+TrSettingsKt,More of the map around the game (not every game yet),显示游戏画面周围更多地图内容（尚未支持所有游戏）
+TrSettingsKt,POKéDAISY {0}  ·  by {1},PokéDaisy {0} · 作者 {1}
+TrSettingsKt,Buy me a coffee,请我喝杯咖啡
+TrSettingsKt,No browser to open {0},没有可用于打开 {0} 的浏览器
+TrSettingsKt,"Earn RetroAchievements (retroachievements.org) as you play. Unlocks pop up on the second screen, and its CHEEVOS tab (under MORE there) lists the game's set. Only ROMs RetroAchievements knows by their exact hash have achievements. Softcore only for now. Your password isn't stored: the app keeps the login token RetroAchievements sends back.",在游玩时解锁 RetroAchievements（retroachievements.org）成就。成就解锁时会在第二屏弹出提示，第二屏“更多 > 成就”可以查看整个成就集。只有哈希值被 RetroAchievements 识别的 ROM 才支持成就。目前仅支持普通模式。应用不会保存你的密码，只会保存网站返回的登录令牌。
+TrSettingsKt,SIGNED IN AS,已登录账号
+TrSettingsKt,{0} SOFTCORE POINTS · {1} HARDCORE POINTS,普通模式 {0} 分 · 硬核模式 {1} 分
+TrSettingsKt,CAN'T REACH RetroAchievements RIGHT NOW · TRIED AGAIN BY ITSELF,暂时无法连接 RetroAchievements · 将自动重试
+TrSettingsKt,CONNECTING…,正在连接…
+TrSettingsKt,SIGN OUT,退出登录
+TrSettingsKt,USERNAME,用户名
+TrSettingsKt,retroachievements.org username,retroachievements.org 用户名
+TrSettingsKt,PASSWORD,密码
+TrSettingsKt,password,密码
+TrSettingsKt,SIGN IN,登录
+TrSettingsKt,SIGNING IN…,正在登录…
+TrSettingsKt,Couldn't sign in,登录失败
+TrSettingsKt,Games hidden from the library with HIDE in their menu. Tap one to show it in the library again.,这里列出通过游戏菜单“隐藏”功能隐藏的游戏。点击即可重新显示在游戏库中。
+TrSettingsKt,NO HIDDEN GAMES,没有隐藏的游戏
+TrSettingsKt,SHOW,显示
+TrSettingsKt,"Library covers are fetched once per ROM and kept on-device — nothing is bundled in the app. RetroAchievements has box art for every game with a set, SteamGridDB icons for FireRed, Emerald and the supported hacks; box art wins where there are both. Each needs your own free key: tap GET KEY, copy it from that page, paste it below and tap SAVE. Long-press a game for REPLACE COVER to pick another.",游戏库封面会针对每个 ROM 获取一次并保存在本机，应用本身不附带封面。RetroAchievements 为有成就集的游戏提供包装盒封面；SteamGridDB 提供火红、绿宝石及受支持改版游戏的图标。两者都有时优先使用盒装封面。每项服务都需要你自己的免费密钥：点击“获取密钥”，从网页复制并粘贴到下方，再点“保存”。长按游戏可通过“更换封面”选择其他图片。
+TrSettingsKt,{0} API KEY,{0} API 密钥
+TrSettingsKt,{0} WEB API KEY,{0} Web API 密钥
+TrSettingsKt,CLEAR,清除
+TrSettingsKt,REPLACE ALL,全部替换
+TrSettingsKt,REPLACE ALL COVERS?,替换所有封面？
+TrSettingsKt,"Fetches new art from SteamGridDB for every ROM, replacing current covers (manually set ones too). A ROM with no art found keeps its cover.",为每个 ROM 从 SteamGridDB 获取新图片，替换当前封面（包括手动设置的封面）。找不到新图片的 ROM 会保留原封面。
+TrSettingsKt,REPLACE,替换
+TrSettingsKt,"Tap a hotkey, then press one or more keys/buttons together and release — e.g. hold Select and tap R1 for a chord. BACK cancels.",点击一个快捷键，再同时按下并松开一个或多个实体按键，例如按住 Select 并按 R1。按返回键取消。
+TrSettingsKt,PRESS KEYS…,请按下按键…
+TrSettingsKt,Which physical button is each GBA button. The D-pad and analog stick are fixed.,设置每个 GBA 按键对应的实体按钮，方向键与摇杆固定不变。
+TrSettingsKt,PRESS A BUTTON…,请按一个按钮…
+TrSettingsKt,Press the button on your device. BACK cancels.,请按下设备上的按钮。按返回键取消。
+TrSettingsKt,"Hold the keys together, then let go. BACK cancels.",同时按住需要的按键，然后全部松开。按返回键取消。
+TrSettingsKt,SAVE STATE,保存即时存档
+TrSettingsKt,LOAD STATE,读取即时存档
+TrSettingsKt,SLOT NEXT,下一个槽位
+TrSettingsKt,SLOT PREV,上一个槽位
+TrSettingsKt,FF HOLD,按住快进
+TrSettingsKt,FF TOGGLE,切换快进
+TrSettingsKt,SPEED CYCLE,循环切换速度
+TrSettingsKt,REWIND HOLD,按住倒带
+TrSettingsKt,REWIND,倒带
+TrSettingsKt,SLOWMO HOLD,按住慢动作
+TrSettingsKt,ZOOM,缩放
+TrSettingsKt,SOFT RESET,软重置
+TrSettingsKt,EXIT GAME,退出游戏
+TrSettingsKt,CLOSE APP,关闭应用
+TrSettingsKt,GAME SAVES (.SAV / .SRM),游戏存档（.SAV／.SRM）
+TrSettingsKt,ROMS FOLDER,ROM 文件夹
+TrSettingsKt,NOT LINKED,未关联
+TrSettingsKt,Link the folder you keep your games in: its supported ROMs join the library and play from there.,关联存放游戏的文件夹，受支持的 ROM 将加入游戏库，并直接在原位置运行。
+TrSettingsKt,LOOKING FOR GAMES…,正在查找游戏…
+TrSettingsKt,{0} GAME(S) IN THE LIBRARY · CHECKED FOR NEW ONES EACH TIME THE APP OPENS,游戏库中有 {0} 个游戏 · 每次打开应用都会检查新游戏
+TrSettingsKt,USE DEFAULT,使用默认设置
+TrSettingsKt,RESCAN,重新扫描
+TrSettingsKt,UNLINK,取消关联
+TrSettingsKt,"Grant ""All files access"", then tap the button again",请授予“所有文件访问权限”，然后再次点击按钮
+TrSettingsKt,{0} FILE(S) · {1},{0} 个文件 · {1}
+TrSettingsKt,COPY PATH,复制路径
+TrSettingsKt,(EMPTY),（空）
+TrSettingsKt,Delete {0},删除 {0}
+TrSettingsKt,DELETE FILE?,删除文件？
+TrSettingsKt,Path copied,路径已复制
+TrSettingsKt,,不适用
+TrSettingsKt,SHOWN,已显示
+TrSettingsKt,TAB BAR IS FULL,标签栏已满
+TrSettingsKt,Up to {0} tabs fit next to SETTINGS. Hide one first - hidden tabs open from MORE.,设置按钮旁最多可显示 {0} 个标签。请先隐藏一个，隐藏的标签可从“更多”中打开。
+TrSettingsKt,CLOSE GAME,关闭游戏
+TrSettingsKt,CLOSE GAME?,关闭游戏？
+TrSettingsKt,Returns to the ROM list. Progress is saved automatically.,返回 ROM 列表。进度将自动保存。
+TrSettingsKt,RESTART GAME,重新启动游戏
+TrSettingsKt,RESTART GAME?,重新启动游戏？
+TrSettingsKt,Reboots the game and reloads its save from disk. Unsaved progress is lost.,重新启动游戏并从磁盘读取存档。未保存的进度将丢失。
+TrSettingsKt,RESTART,重新启动
+TrSettingsKt,HIDDEN,已隐藏
+TrSettingsKt,CHEATS,金手指
+TrSettingsKt,CHEAT,金手指
+TrSettingsKt,CHEAT {0},金手指 {0}
+TrSettingsKt,CODES,代码
+TrSettingsKt,CODE,代码
+TrSettingsKt,TYPE,类型
+TrSettingsKt,GAMESHARK,GameShark
+TrSettingsKt,ACTION REPLAY,Action Replay
+TrSettingsKt,CODEBREAKER,CodeBreaker
+TrSettingsKt,{0} ON,已开启 {0}
+TrSettingsKt,ADD CODE,添加代码
+TrSettingsKt,IMPORT FILE,导入文件
+TrSettingsKt,REMOVE,移除
+TrSettingsKt,REMOVE CHEAT?,移除金手指？
+TrSettingsKt,NO CHEATS FOR THIS GAME,此游戏尚无金手指
+TrSettingsKt,ADD THEM IN SETTINGS ON THE TOP SCREEN,请在主屏幕的设置中添加
+TrSettingsKt,NO GAMES IN THE LIBRARY,游戏库中没有游戏
+TrSettingsKt,"A cheat can break a save, so the save is backed up every time a game starts (RESTORE BACKUP in its library menu). Achievements pause while a cheat is on.",金手指可能损坏存档，因此每次启动游戏都会备份存档（可从游戏库菜单的“恢复备份”找回）。启用金手指时成就会暂停。
+TrSettingsKt,"Type or paste a GameShark, Action Replay or CodeBreaker code, one line or many. AUTO works out which it is; pick the type when a code doesn't take.",输入或粘贴 GameShark、Action Replay 或 CodeBreaker 代码，可以是一行或多行。自动模式会识别类型；如果代码无效，请手动选择类型。
+TrSettingsKt,e.g. INFINITE MONEY,例如：无限金钱
+TrSettingsKt,That isn't a code.,这不是有效的代码。
+TrSettingsKt,mGBA can't read {0} as a {1} code.,mGBA 无法按 {1} 类型解析代码 {0}。
+TrSettingsKt,mGBA can't read {0}.,mGBA 无法解析 {0}。
+TrSettingsKt,NO CHEATS ADDED,未添加金手指
+TrSettingsKt,CAN'T READ THAT FILE,无法读取该文件
+TrSettingsKt,Pick a RetroArch .cht or an mGBA .cheats file.,请选择 RetroArch 的 .cht 文件或 mGBA 的 .cheats 文件。
+TrSettingsKt,NO CHEATS FOUND,未找到金手指
+TrSettingsKt,"That file has no cheats in a format PokeDaisy reads (RetroArch .cht, mGBA .cheats).",该文件不包含 PokeDaisy 能识别的金手指格式（RetroArch .cht 或 mGBA .cheats）。
+TrSettingsKt,{0} CHEATS ADDED,已添加 {0} 条金手指
+TrSettingsKt,They start OFF: tap one to turn it on.,默认全部关闭，点击即可启用。
+TrSettingsKt,{0} left out: mGBA can't read {1} of their code lines.,已跳过 {0} 条：mGBA 无法读取其中 {1} 行代码。
+TrSettingsKt,{0} were already in the list.,其中 {0} 条已存在于列表中。
+TrSettingsKt,CHEATS ON,金手指已开启
+TrSettingsKt,CHEATS OFF,金手指已关闭
+TrSettingsKt,PAUSED: CHEATS ON,已暂停：金手指开启中
+TrSettingsKt,Achievements are paused until every cheat is off.,在关闭所有金手指之前，成就功能将暂停。
+TrSettingsKt,Achievements are back on.,成就功能已恢复。
+TrSettingsKt,SHINY ODDS RAISED,闪光概率已提高
+TrSettingsKt,SHINY ODDS NORMAL,闪光概率正常
+TrSettingsKt,Achievements are paused while SHINY ODDS is raised.,提高闪光概率时成就功能将暂停。
+TrSettingsKt,PAUSED: SHINY ODDS,已暂停：闪光概率已调整
+TrSettingsKt,OVERLAY,画面遮罩
+TrSettingsKt,DAISY,雏菊
+TrSettingsKt,BEZEL,边框
+TrSettingsKt,BUILT-IN,内置
+TrSettingsKt,IMPORTED,已导入
+TrSettingsKt,NONE YET: IMPORT FILE BELOW,暂无，请从下方导入文件
+TrSettingsKt,"A frame around the game. {0} and {1} are PokéDaisy's own. {2} adds yours: a RetroArch overlay (.cfg with its PNG), a .zip of them, or a PNG with a see-through screen.",为游戏添加边框。{0} 和 {1} 是 PokéDaisy 内置边框，{2} 可导入自定义边框：RetroArch 遮罩（.cfg 与 PNG）、对应 ZIP 文件或带透明游戏区域的 PNG。
+TrSettingsKt,OVERLAY ADDED,已添加遮罩
+TrSettingsKt,OVERLAYS ADDED,已添加多个遮罩
+TrSettingsKt,{0} is on. Games show it from now on.,已启用 {0}，之后的游戏将显示它。
+TrSettingsKt,{0} overlays added. Tap one to use it.,已添加 {0} 个遮罩，点击其中一个即可使用。
+TrSettingsKt,"{0} couldn't be used: an image missing, or not a PNG.",无法使用 {0}：图片缺失或文件不是 PNG 格式。
+TrSettingsKt,PICK THE IMAGE,选择图片
+TrSettingsKt,"{0} draws {1}, which wasn't picked with it. Pick {1} next: it's usually beside the .cfg or in a folder next to it.",{0} 需要使用 {1}，但尚未选中此图片。接下来请选择 {1}；它通常位于 .cfg 同一目录或相邻文件夹。
+TrSettingsKt,PICK,选择
+TrSettingsKt,NOT AN OVERLAY,不是有效遮罩
+TrSettingsKt,"Pick a RetroArch overlay (.cfg with its image), a .zip of them, or a PNG with a see-through screen.",请选择 RetroArch 遮罩（.cfg 与对应图片）、包含它们的 ZIP，或带透明游戏区域的 PNG。
+TrSettingsKt,That file is too big for an overlay.,该文件过大，无法用作遮罩。
+TrSettingsKt,REMOVE ALL,全部移除
+TrSettingsKt,REMOVE ALL OVERLAYS?,移除所有遮罩？
+TrSettingsKt,Every imported overlay ({0}) is deleted from this device. The built-in ones stay.,将从设备中删除全部导入的遮罩（{0} 个），内置遮罩会保留。
+TrSettingsKt,REMOVE OVERLAY?,移除此遮罩？
+TrSettingsKt,HUD,HUD 信息层
+TrSettingsKt,Unavailable: screen too small,不可用：屏幕太小
+TrSettingsKt,QUICK MENU,快捷菜单
+TrSettingsKt,Actions on a held button,长按按钮时出现的操作
+TrSettingsKt,Press it for the menu; change it in HOTKEYS,按下此键打开菜单；可在快捷键设置中修改
+TrSettingsKt,BUTTON,按钮
+TrSettingsKt,REPEL,喷雾
+TrSettingsKt,BIKE,自行车
+TrSettingsKt,ROD,钓竿
+TrSettingsKt,FF,快进
+TrSettingsKt,Not during a battle,战斗中不可使用
+TrSettingsKt,No one in your party knows FLY,队伍中没有宝可梦学会飞翔
+TrSettingsKt,No REPEL in your bag,背包中没有喷雾
+TrSettingsKt,No bike in your bag,背包中没有自行车
+TrSettingsKt,No rod in your bag,背包中没有钓竿
+TrSettingsKt,Nothing to show: pick actions in SETTINGS > QUICK MENU,没有可显示的操作，请在“设置 > 快捷菜单”中选择功能
+TrSettingsKt,GET OFF,下车
+TrSettingsKt,STYLE,样式
+TrSettingsKt,LABELS,文字标签
+TrSettingsKt,Each action's name under its icon,在每个图标下方显示操作名称
+TrSettingsKt,RING,环形
+TrSettingsKt,Still working: {0} steps left,效果仍在持续：剩余 {0} 步
+TrSettingsKt,{0} steps,{0} 步
+TrSettingsKt,REPEL STEPS,喷雾剩余步数
+TrSettingsKt,"Party, map and more on the field",在探索时显示队伍、地图等信息
+TrSettingsKt,BATTLE BUTTONS,战斗按键
+TrSettingsKt,"FIGHT, POKéMON and RUN beside a battle",在战斗画面旁显示战斗、宝可梦和逃跑按钮
+TrSettingsKt,MINIMAP,小地图
+TrSettingsKt,LAYOUT,布局
+TrSettingsKt,LOOK,外观
+TrSettingsKt,SMALL,小
+TrSettingsKt,LARGE,大
+TrSettingsKt,CORNERS,角落
+TrSettingsKt,RAILS,两侧
+TrSettingsKt,DOCK,底座
+TrSettingsKt,GLASS,玻璃
+TrSettingsKt,WHITE GLASS,白色玻璃
+TrSettingsKt,WINDOW,窗口
+TrSettingsKt,CORNERS 2,角落 2
+TrSettingsKt,EXPAND: the game fills the space above it,拓展画面：游戏填满上方区域
+TrSettingsKt,EXPAND: UNDER GAME gives the buttons their own space,拓展画面：游戏下方为按钮保留独立空间
+TrSettingsKt,EXPAND: the buttons fill their own space,拓展画面：按钮占满自己的区域
+TrSettingsKt,TOP,顶部
+TrSettingsKt,MIDDLE,中间
+TrSettingsKt,BOTTOM,底部
+TrSettingsKt,POSITION,位置
+TrSettingsKt,"Upright: top, middle or bottom of their space",竖屏时放在对应区域的顶部、中间或底部
+TrSettingsKt,"Upright: right under the game, or at the bottom",竖屏时紧贴游戏画面下方或位于底部
+TrSettingsKt,"The on-screen buttons: layout, size, extras",屏幕虚拟按钮：布局、大小和附加功能
+TrSettingsKt,CLASSIC,经典
+TrSettingsKt,SIDES,两侧
+TrSettingsKt,COMPACT,紧凑
+TrSettingsKt,CUSTOM,自定义
+TrSettingsKt,D-PAD,方向键
+TrSettingsKt,START,开始
+TrSettingsKt,SELECT,选择
+TrSettingsKt,TURBO,连发
+TrSettingsKt,TURBO A,A 键连发
+TrSettingsKt,TURBO B,B 键连发
+TrSettingsKt,MENU,菜单
+TrSettingsKt,X-LARGE,超大
+TrSettingsKt,EDIT LAYOUT,编辑布局
+TrSettingsKt,EDIT LAYOUT: UPRIGHT,编辑布局：竖屏
+TrSettingsKt,EDIT LAYOUT: SIDEWAYS,编辑布局：横屏
+TrSettingsKt,OPACITY,透明度
+TrSettingsKt,8-WAY,八方向
+TrSettingsKt,4-WAY,四方向
+TrSettingsKt,FADE WHEN IDLE,闲置时渐隐
+TrSettingsKt,VIBRATION,震动
+TrSettingsKt,RESET LAYOUT,重置布局
+TrSettingsKt,RESET LAYOUT?,重置布局？
+TrSettingsKt,RESET,重置
+TrSettingsKt,EXTRA BUTTONS,额外按钮
+TrSettingsKt,UPRIGHT,竖屏
+TrSettingsKt,SIDEWAYS,横屏
+TrSettingsKt,SNAP ON,吸附开启
+TrSettingsKt,SNAP OFF,吸附关闭
+TrSettingsKt,HIDDEN ({0}),已隐藏（{0}）
+TrSettingsKt,SHOW AGAIN,重新显示
+TrSettingsKt,Drag to move. Tap to resize or hide.,拖动可移动，点击可调整大小或隐藏。
+TrSettingsKt,"Every button goes back to where {0} puts it, upright.",所有按钮将恢复到 {0} 提供的竖屏默认位置。
+TrSettingsKt,"Every button goes back to where {0} puts it, sideways.",所有按钮将恢复到 {0} 提供的横屏默认位置。
+TrSettingsKt,AUTO: hidden with a controller,自动：连接控制器时隐藏
+TrSettingsKt,Where the buttons sit,按钮的摆放位置
+TrSettingsKt,Drag the buttons into place,拖动按钮调整位置
+TrSettingsKt,How solid the buttons are,按钮的不透明程度
+TrSettingsKt,4-WAY: one direction at a time,四方向：每次只输入一个方向
+TrSettingsKt,Fade out when not in use,不使用时逐渐淡出
+TrSettingsKt,A light tick on each press,每次按键产生轻微震动
+TrSettingsKt,"Forget CUSTOM, back to the preset",放弃自定义布局，恢复预设
+TrSettingsKt,Tap: on or off. Hold: fast while held,轻触切换开关；按住时持续快速执行
+TrSettingsKt,Opens the QUICK MENU,打开快捷菜单
+TrSettingsKt,Presses it over and over while held,按住期间持续重复按键
+TrSettingsKt,Saves a state to the current slot,将即时存档保存到当前槽位
+TrSettingsKt,Loads the current slot's state,读取当前槽位的即时存档
+TrSettingsKt,"Now and then, a feature you haven't tried yet",偶尔介绍你尚未尝试过的功能
+TrCompanionKt,In {0}.,位于 {0}。
+TrCompanionKt,Lying around {0}.,散落在 {0} 附近。
+TrCompanionKt,Lying in the {0} ({1}).,位于 {0}（{1}）附近。
+TrCompanionKt,Someone around {0}.,位于 {0} 附近的某个人手中。
+TrCompanionKt,Someone in the {0} ({1}).,位于 {0}（{1}）中的某个人手中。
+TrCompanionKt,(egg),（蛋）
+TrCompanionKt,LEVEL UP (STATS),升级（能力值）
+TrCompanionKt,LEVEL UP (RANDOM),升级（随机）
+TrCompanionKt,LEVEL UP (BONUS),升级（奖励）
+TrCompanionKt,FRIENDSHIP,亲密度
+TrCompanionKt,TRADE,交换
+TrCompanionKt,USE AN ITEM,使用道具
+TrCompanionKt,BEAUTY,美丽度
+TrCompanionKt,"LV {0}, ATTACK > DEFENSE",等级 {0}，攻击高于防御
+TrCompanionKt,"LV {0}, ATTACK = DEFENSE",等级 {0}，攻击等于防御
+TrCompanionKt,"LV {0}, ATTACK < DEFENSE",等级 {0}，攻击低于防御
+TrCompanionKt,LV {0} (depends on the POKéMON),等级 {0}（视宝可梦而定）
+TrCompanionKt,"LV {0}, with a free party slot and a spare POKé BALL",等级 {0}，且队伍有空位并持有额外的精灵球
+TrCompanionKt,Level up with high friendship,亲密度足够高时升级
+TrCompanionKt,"Level up with high friendship, by day",白天在高亲密度下升级
+TrCompanionKt,"Level up with high friendship, at night",夜晚在高亲密度下升级
+TrCompanionKt,Trade holding {0},携带 {0} 后交换
+TrCompanionKt,Level up with BEAUTY {0}+,美丽度达到 {0} 以上时升级
+TrCompanionKt,SHARE THIS MATCH?,分享此识别结果？
+TrCompanionKt,"It helps other players and lets a future release support this ROM properly. Sent once to PokéDaisy's database (Google Firebase): exactly the lines below - no file name, account or device details.",分享此识别结果有助于其他玩家，也能帮助未来版本正式支持该 ROM。只会向 PokéDaisy 数据库（Google Firebase）发送下方列出的内容一次，不包含文件名、账号或设备信息。
+TrCompanionKt,NO THANKS,不用了，谢谢
+TrCompanionKt,SHARE,分享
+TrCompanionKt,ROM SHA-1,ROM SHA-1 校验值
+TrCompanionKt,ROM SIZE,ROM 大小
+TrCompanionKt,READ AS,识别为
+TrCompanionKt,PARTS OFF,部分功能不可用
+TrCompanionKt,MATCH,匹配
+TrCompanionKt,APP VERSION,应用版本
+TrCompanionKt,BEST EFFORT,尽力兼容
+TrCompanionKt,WHICH GAME IS THIS?,这是哪款游戏？
+TrCompanionKt,LIKELY,可能是
+TrCompanionKt,NONE OF THESE,以上都不是
+TrCompanionKt,WRONG GAME?,游戏识别错误？
+TrCompanionKt,KEEP,保留
+TrCompanionKt,PICK AGAIN,重新选择
+TrCompanionKt,PICK A GAME,选择游戏
+TrCompanionKt,NOT SET,未设置
+TrCompanionKt,PLAYS AS,按以下游戏运行
+TrCompanionKt,"Read as {0}. If that's not the game you're playing, pick it below.",已识别为 {0}。如果与你正在玩的游戏不符，请在下方重新选择。
+TrCompanionKt,"Your party doesn't read clearly as any game PokéDaisy knows. Pick the one you're playing, or NONE OF THESE.",无法将你的队伍数据明确匹配到任何已知游戏。请选择你正在玩的游戏，或选“以上都不是”。
+TrCompanionKt,"PokéDaisy doesn't know this build. Pick the game it's a version of - or play on: once you have a POKéMON, it checks by itself.",PokéDaisy 尚未识别此版本。请选择其对应的原版游戏，或直接继续游玩；获得宝可梦后，程序会自动检查。
+TrCompanionKt,POKéMON sprites,宝可梦图像
+TrCompanionKt,item sprites,道具图像
+TrCompanionKt,"Looks like {0}, from the names in the ROM. Read as that until you have a POKéMON to check it by.",根据 ROM 中的名称，可能是 {0}。暂时按该游戏识别，直到获得宝可梦后进行确认。
+TrCompanionKt,Read as {0}: its party and names checked out against this ROM. Off: {1}. The library tags it PARTIALLY SUPPORTED.,已识别为 {0}，队伍和名称校验通过，但 {1} 存在差异。游戏库会标记为“部分支持”。
+TrCompanionKt,Your party doesn't read as {0} - it does as {1}. Pick the game you're playing.,队伍数据不符合 {0}，但符合 {1}。请选择你正在玩的游戏。
+TrCompanionKt,"Your party doesn't read as {0}: names and sprites may be wrong. Pick the game you're playing, or keep it.",队伍数据不符合 {0}，名称和图像可能错误。请选择实际游戏，或保留当前识别。
+TrCompanionKt,"You said it's none of the games PokéDaisy knows. If it's a version of one, pick it.",你选择了“以上都不是”。如果这是某款已知游戏的改版，请选择对应游戏。
+TrCompanionKt,the POKéDEX,宝可梦图鉴
+TrCompanionKt,the GUIDE's live pages,攻略的实时页面
+TrCompanionKt,item descriptions,道具说明
+TrCompanionKt,"Read as {0}: everything matched, so it works like a supported game.",已识别为 {0}，各项数据全部匹配，可按受支持的游戏正常使用。
+TrCompanionKt,ASK FOR SUPPORT,请求支持
+TrCompanionKt,Opens a game request with the ROM's file name and SHA-1 - never the ROM itself.,提交游戏支持请求时仅包含 ROM 文件名与 SHA-1 校验值，不会上传 ROM 本身。
+TrCompanionKt,THIS ROM ISN'T SUPPORTED,不支持此 ROM
+TrCompanionKt,"The game plays normally on the top screen, but the second screen can't read its party, map, items or battles.",游戏可在上屏正常运行，但下屏无法读取队伍、地图、道具或战斗信息。
+TrCompanionKt,SETTINGS (the gear below) still works.,下方齿轮按钮的“设置”仍可使用。
+TrCompanionKt,no data yet,暂无数据
+TrCompanionKt,starting…,正在启动…
+TrCompanionKt,Lock the companion beside the game,将辅助界面固定在游戏旁边
+TrCompanionKt,Open the companion,打开辅助界面
+TrCompanionKt,Back to the game,返回游戏
+TrCompanionKt,Close the companion,关闭辅助界面
+TrCompanionKt,Unlock the companion,解除辅助界面固定
+TrCompanionKt,Resize the companion,调整辅助界面大小
+TrCompanionKt,YOU,我方
+TrCompanionKt,FOE,对手
+TrCompanionKt,NEXT,下一个
+TrCompanionKt,FAINTED,濒死
+TrCompanionKt,RESERVE,后备
+TrCompanionKt,UNSEEN,未发现
+TrCompanionKt,OUT,退出
+TrCompanionKt,BEST,最佳
+TrCompanionKt,1ST,第一
+TrCompanionKt,2ND,第二
+TrCompanionKt,3RD,第三
+TrCompanionKt,VS,对战
+TrCompanionKt,Unknown foe Pokémon,未知的对手宝可梦
+TrCompanionKt,Show foe details,显示对手详情
+TrCompanionKt,LEARN,学习
+TrCompanionKt,NOTHING TO LEARN FOR NOW,目前没有可学的招式
+TrCompanionKt,NEXT LEVELS,后续等级
+TrCompanionKt,PC,电脑
+TrCompanionKt,TMs IN THE BAG,背包中的招式学习器
+TrCompanionKt,ACC,命中
+TrCompanionKt,FORGET {0},遗忘 {0}
+TrCompanionKt,FORGET,遗忘
+TrCompanionKt,ABLE,可以学习
+TrCompanionKt,NOT ABLE,无法学习
+TrCompanionKt,LEARNED,已学会
+TrCompanionKt,BEST FOR {0},最适合 {0}
+TrCompanionKt,BEST FOR {0}: FORGET {1},最适合 {0}：建议遗忘 {1}
+TrCompanionKt,FREE SLOT,空招式槽
+TrCompanionKt,NEW 2x ON {0},新增对 {0} 的 2 倍克制
+TrCompanionKt,YOUR TYPE: x1.5,同属性加成：×1.5
+TrCompanionKt,"SAME TYPE, {0} vs {1} POWER",相同属性，威力 {0} 对比 {1}
+TrCompanionKt,"RUNS ON ATTACK, ITS WEAKER STAT",使用攻击计算，但攻击是较弱能力值
+TrCompanionKt,"RUNS ON SP. ATK, ITS WEAKER STAT",使用特攻计算，但特攻是较弱能力值
+TrCompanionKt,ACCURACY {0}%,命中率 {0}%
+TrCompanionKt,STRONG EFFECT,效果绝佳
+TrCompanionKt,LOSES 2x ON {0},失去对 {0} 的 2 倍克制
+TrCompanionKt,{0} DOES LITTLE,{0} 效果不佳
+TrCompanionKt,{0} IS BETTER,{0} 更好
+TrCompanionKt,AN HM: IT STAYS FOR GOOD,这是秘传招式，学会后无法随意遗忘
+TrCompanionKt,WEAK EFFECT,效果不佳
+TrCompanionKt,ITS MOVES ARE BETTER,原有招式更好
+TrCompanionKt,HELD ITEM,携带道具
+TrCompanionKt,ACCURACY,命中率
+TrCompanionKt,EVASION,闪避率
+TrCompanionKt,Hide foe details,隐藏对手详情
+TrCompanionKt,{0} Lv {1},{0} 等级 {1}
+TrCompanionKt,SUGGESTIONS,建议
+TrCompanionKt,STATS,能力值
+TrCompanionKt,MOVES,招式
+TrCompanionKt,FIGHT,战斗
+TrCompanionKt,RUN,逃跑
+TrCompanionKt,Choose a POKéMON.,请选择一只宝可梦。
+TrCompanionKt,Confirming target…,正在确认目标…
+TrCompanionKt,Waiting for your turn…,正在等待你的回合…
+TrCompanionKt,NO FOE ON THE FIELD,场上没有对手
+TrCompanionKt,NO USABLE DAMAGING MOVES IN YOUR PARTY,队伍中没有可用的攻击招式
+TrCompanionKt,{0}'S MOVES,{0} 的招式
+TrCompanionKt,NO MOVE DATA,没有招式数据
+TrCompanionKt,PWR,威力
+TrCompanionKt,PP,PP
+TrCompanionKt,PWR {0},威力 {0}
+TrCompanionKt,PP {0},PP {0}
+TrCompanionKt,NO PP,PP 已耗尽
+TrCompanionKt,STATUS,状态
+TrCompanionKt,SUPER {0},效果绝佳 {0}
+TrCompanionKt,RESISTED {0},效果减半 {0}
+TrCompanionKt,NEUTRAL {0},普通效果 {0}
+TrCompanionKt,IMMUNE {0},免疫 {0}
+TrCompanionKt,{0} IS,{0} 的属性关系
+TrCompanionKt,WEAK TO,弱点
+TrCompanionKt,RESISTS,抵抗
+TrCompanionKt,IMMUNE TO,免疫
+TrCompanionKt,NO MATCHUP DATA,没有属性克制数据
+TrCompanionKt,Lv,等级
+TrCompanionKt,Lv{0},等级 {0}
+TrCompanionKt,EXP,经验值
+TrCompanionKt,MAX,最大值
+TrCompanionKt,NEXT {0},下一级 {0}
+TrCompanionKt,STAT,能力值
+TrCompanionKt,IV,个体值
+TrCompanionKt,EV,努力值
+TrCompanionKt,NATURE,性格
+TrCompanionKt,HIDDEN POWER,觉醒力量
+TrCompanionKt,NO STATS FOR THIS ONE,无法获取该宝可梦的能力值
+TrCompanionKt,POKé BALLS,精灵球
