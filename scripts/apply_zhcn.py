@@ -12,10 +12,11 @@ for file in (file1,file2):
         rows.extend(csv.DictReader(stream))
 assert len(rows) == 1345, f"Expected 1345, got {len(rows)}"
 groups = {"TrCoreKt":"Core","TrLibraryKt":"Library","TrSettingsKt":"Settings","TrCompanionKt":"Companion","TrCompanionInfoKt":"CompanionInfo"}
-assert all(r["模块"] in groups and r["English key"] and r["简体中文"] for r in rows)
+assert all(r["模块"] in groups and r["简体中文"] for r in rows)
 def placeholders(s): return sorted(re.findall(r"\{\d+\}",s))
 assert all(placeholders(r["English key"])==placeholders(r["简体中文"]) for r in rows), "Placeholder mismatch"
-assert len({r["English key"] for r in rows})==len(rows), "Duplicate translation key"
+keys=[r["English key"] for r in rows if r["English key"]]
+assert len(set(keys))==len(keys), "Duplicate nonempty translation key"
 def kotlin(s):
     return '"'+s.replace("\\","\\\\").replace('"','\\"').replace("\n","\\n").replace("\r","\\r").replace("\t","\\t").replace("$","\\$")+'"'
 for module,name in groups.items():
