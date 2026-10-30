@@ -1,0 +1,346 @@
+模块,English key,简体中文
+TrCompanionKt,TMs & HMs,招式学习器与秘传学习器
+TrCompanionKt,BERRIES,树果
+TrCompanionKt,FAVORITES,收藏
+TrCompanionKt,All,全部
+TrCompanionKt,Items,道具
+TrCompanionKt,Poke Balls,精灵球
+TrCompanionKt,Berries,树果
+TrCompanionKt,Key Items,重要道具
+TrCompanionKt,Favorites,收藏
+TrCompanionKt,Default,默认
+TrCompanionKt,Name,名称
+TrCompanionKt,Type,类型
+TrCompanionKt,Count,数量
+TrCompanionKt,No items,没有道具
+TrCompanionKt,No items in this pocket,此背包口袋中没有道具
+TrCompanionKt,USE,使用
+TrCompanionKt,Used! It lasts {0} steps.,使用成功！效果持续 {0} 步。
+TrCompanionKt,The last one is still working.,上一次使用的效果仍在持续。
+TrCompanionKt,You can't do that during a battle.,战斗中无法执行此操作。
+TrCompanionKt,Not now: close the game's menus and battles first.,现在无法操作，请先关闭游戏内菜单或结束战斗。
+TrCompanionKt,None left in the bag.,背包中已经用完。
+TrCompanionKt,It can't be used here.,这里无法使用。
+TrCompanionKt,GIVE,给予
+TrCompanionKt,Use {0} on which POKéMON?,要对哪只宝可梦使用 {0}？
+TrCompanionKt,Give {0} to which POKéMON?,要将 {0} 交给哪只宝可梦？
+TrCompanionKt,Restore which move?,要恢复哪个招式？
+TrCompanionKt,Boost PP of which move?,要提升哪个招式的 PP？
+TrCompanionKt,Used on {0}.,已对 {0} 使用。
+TrCompanionKt,It won't have any effect.,没有效果。
+TrCompanionKt,{0} is holding {1} now.,{0} 现在携带 {1}。
+TrCompanionKt,{0} is holding {1} now. {2} went back to the bag.,{0} 现在携带 {1}，原本的 {2} 已放回背包。
+TrCompanionKt,BAG FULL,背包已满
+TrCompanionKt,The bag is full: {0} can't go back in it.,背包已满，无法将 {0} 放回。
+TrCompanionKt,The party has changed. Try again.,队伍已发生变化，请重试。
+TrCompanionKt,USE or GIVE it from here,在此处使用或交给宝可梦
+TrCompanionKt,TAKE,取下
+TrCompanionKt,{0} is holding {1}. Take it?,{0} 携带着 {1}。要取下来吗？
+TrCompanionKt,Received {0} from {1}.,从 {1} 处取得 {0}。
+TrCompanionKt,MAP {0},地图 {0}
+TrCompanionKt,ME,我的位置
+TrCompanionKt,PLACES,地点
+TrCompanionKt,FLY,飞翔
+TrCompanionKt,No town to fly to yet.,还没有可飞往的城镇。
+TrCompanionKt,FLY needs a new BADGE first.,使用飞翔还需要获得相应徽章。
+TrCompanionKt,You can't FLY while someone is traveling with you.,有人同行时无法使用飞翔。
+TrCompanionKt,You can't FLY from here.,此处无法使用飞翔。
+TrCompanionKt,Nobody in the party knows FLY.,队伍中没有宝可梦学会飞翔。
+TrCompanionKt,YOUR LOCATION,当前位置
+TrCompanionKt,TOWNS & CITIES,城镇与城市
+TrCompanionKt,ROUTES,道路
+TrCompanionKt,OTHER PLACES,其他地点
+TrCompanionKt,"({0}, {1}) facing {2}",（{0}，{1}）面向{2}
+TrCompanionKt,South,南
+TrCompanionKt,North,北
+TrCompanionKt,West,西
+TrCompanionKt,East,东
+TrCompanionKt,Southwest,西南
+TrCompanionKt,Southeast,东南
+TrCompanionKt,Northwest,西北
+TrCompanionKt,Northeast,东北
+TrCompanionKt,(no region map for this game yet),（此游戏暂时没有地区地图）
+TrCompanionKt,(no region map for this area),（此区域没有地区地图）
+TrCompanionKt,NO GAME RUNNING,没有运行中的游戏
+TrCompanionKt,UNDO SAVE,撤销保存
+TrCompanionKt,UNDO LOAD,撤销读取
+TrCompanionKt,SLOT {0},槽位 {0}
+TrCompanionKt,Slot {0},槽位 {0}
+TrCompanionKt,EMPTY,空
+TrCompanionKt,TAP TO FLIP THE CARD,点击翻转卡片
+TrCompanionKt,TAP TO SEE THE FRONT,点击查看正面
+TrCompanionKt,WILD,野生
+TrCompanionKt,WILD POKéMON,野生宝可梦
+TrCompanionKt,Use on which POKéMON?,要对哪只宝可梦使用？
+TrCompanionKt,First encounter in {0}: {1},在 {0} 的首次遭遇：{1}
+TrCompanionKt,{0} is used up: no catching here,{0} 的捕获机会已用完，不能再捕捉
+TrCompanionKt,{0} is caught already: this one doesn't count,已捕获过 {0}，本次不计入捕获机会
+TrCompanionKt,{0} joins the run,{0} 加入本次挑战
+TrCompanionKt,{0} fainted: it's out of the run,{0} 已濒死，退出本次挑战
+TrCompanionKt,{0} is out of the run: leave it in the PC,{0} 已退出挑战，请将它留在电脑中
+TrCompanionKt,NOW,现在
+TrCompanionKt,CAUGHT|run,已捕获
+TrCompanionKt,MISSED,错过
+TrCompanionKt,FREE,未占用
+TrCompanionKt,Your first wild POKéMON here is this area's catch,此处遇到的第一只野生宝可梦就是本区域的捕获目标
+TrCompanionKt,TEAM,队伍
+TrCompanionKt,Nobody yet,目前还没有
+TrCompanionKt,{0} FAINTED?,{0} 濒死了吗？
+TrCompanionKt,"Marks {0} as out of the run, as if it had fainted.",将 {0} 标记为已退出挑战，视同濒死。
+TrCompanionKt,ENCOUNTERS,遭遇记录
+TrCompanionKt,GRAVEYARD,阵亡宝可梦
+TrCompanionKt,Fainted in {0},在 {0} 濒死
+TrCompanionKt,BRING BACK {0}?,让 {0} 重返挑战？
+TrCompanionKt,"Puts {0} back in the run, for a faint that shouldn't count.",让 {0} 重新加入挑战，适用于不应计入的濒死情况。
+TrCompanionKt,RULES,规则
+TrCompanionKt,DUPES CLAUSE,重复捕获条款
+TrCompanionKt,A POKéMON you've caught before doesn't use up an area,遇到已经捕获过的宝可梦，不消耗该区域的捕获机会
+TrCompanionKt,WARNINGS,警告
+TrCompanionKt,Notices on the game screen as the run goes,挑战过程中在游戏画面上显示提醒
+TrCompanionKt,NEW RUN,新挑战
+TrCompanionKt,NEW RUN?,开始新挑战？
+TrCompanionKt,Forgets every encounter and fainted POKéMON of this run. Your party right now starts the new one.,清除本次挑战的所有遭遇和濒死记录，使用当前队伍开始新挑战。
+TrCompanionKt,NUZLOCKE,Nuzlocke 挑战
+TrCompanionKt,{0} ALIVE · {1} FAINTED,存活 {0} · 濒死 {1}
+TrCompanionKt,NOT USED,未使用
+TrCompanionKt,With you from the start,从挑战开始就在队伍中
+TrCompanionKt,Joined in {0},在 {0} 加入
+TrCompanionKt,Out of the run,已退出挑战
+TrCompanionKt,"Track a run: one catch per area, a faint is final",记录 Nuzlocke 挑战：每个区域仅能捕获一只，濒死即永久淘汰
+TrCompanionKt,"ZOOM OUT, LOOK AROUND",缩小视野，观察四周
+TrCompanionKt,With EXPAND you can see further than the game ever showed you.,使用“拓展画面”可以看到比原版游戏更远的地图。
+TrCompanionKt,SHOW ME,带我看看
+TrCompanionKt,SEE MORE OF THE WORLD,看到更大的游戏世界
+TrCompanionKt,"EXPAND draws the map past the game's edges, so the whole screen is the game. No black bars, nothing stretched.",拓展画面会把地图绘制到原始边界之外，让游戏填满屏幕，没有黑边也没有拉伸。
+TrCompanionKt,EVERYTHING IN ONE PRESS,一键完成常用操作
+TrCompanionKt,"The QUICK MENU opens the PC, flies, gets on your bike or saves a state without leaving the field.",使用快捷菜单即可打开电脑、飞翔、骑自行车或保存即时存档，无需离开地图。
+TrCompanionKt,OPEN IT,立即打开
+TrCompanionKt,TAP THE HUD,点击 HUD 信息层
+TrCompanionKt,"Tap a party icon for its summary, the minimap for the map, BAG to use an item.",点击队伍图标查看详情，点击小地图打开地图，点击背包使用道具。
+TrCompanionKt,"THE PC, FROM ANYWHERE",随时随地打开电脑
+TrCompanionKt,Open your boxes from the BAG tab or the QUICK MENU. No walk back to town.,从背包标签或快捷菜单直接打开电脑盒子，不必返回城镇。
+TrCompanionKt,OPEN PC,打开电脑
+TrCompanionKt,NO NEED TO HOLD B,不必一直按住 B
+TrCompanionKt,AUTO-RUN makes you run on the field by itself. Hold B when you want to walk.,启用自动奔跑后，探索地图时会自动跑步。需要步行时按住 B 键即可。
+TrCompanionKt,TIRED OF WILD BATTLES?,厌倦了野生宝可梦战斗？
+TrCompanionKt,Switch wild encounters off for a while. Fishing and story battles still happen.,可以暂时关闭野生遭遇，钓鱼与剧情战斗仍会发生。
+TrCompanionKt,SWITCH OFF,关闭
+TrCompanionKt,KEEP YOUR TMS,保留招式学习器
+TrCompanionKt,With REUSABLE TMS a TM stays in your bag after it teaches a move.,启用招式学习器重复使用后，教会招式也不会消耗学习器。
+TrCompanionKt,FLY WITHOUT THE MENUS,无需打开游戏菜单就能飞翔
+TrCompanionKt,"Pick a town you've been to and fly there: FLY on the MAP, or in the QUICK MENU.",选择去过的城镇即可飞往那里：可从地图页面或快捷菜单使用飞翔。
+TrCompanionKt,FLY NOW,立即飞翔
+TrCompanionKt,RIGHT STICK,右摇杆
+TrCompanionKt,LOOK AROUND,环视四周
+TrCompanionInfoKt,HERE,这里
+TrCompanionInfoKt,NEXT BOSS,下一位首领
+TrCompanionInfoKt,EVOLUTIONS,进化
+TrCompanionInfoKt,TIPS,提示
+TrCompanionInfoKt,WHERE IS,在哪里
+TrCompanionInfoKt,STUCK?,遇到困难？
+TrCompanionInfoKt,LOADING...,加载中…
+TrCompanionInfoKt,BEFORE YOU READ,阅读前请注意
+TrCompanionInfoKt,"This guide was written with the help of AI, from the game's own data. It can still get details wrong or leave things out - double-check anything that matters before relying on it.",本攻略借助 AI，根据游戏自身的数据编写。仍可能存在错误或遗漏；对于重要信息，请核实后再参考。
+TrCompanionInfoKt,This game's guide hasn't been checked in-game yet.,此游戏的攻略尚未经游戏内验证。
+TrCompanionInfoKt,"HERE, NEXT BOSS and EVOLUTIONS come straight from the game's own data.",“这里”“下一位首领”和“进化”直接使用游戏自身的数据。
+TrCompanionInfoKt,GO BACK,返回
+TrCompanionInfoKt,I UNDERSTAND,我明白了
+TrCompanionInfoKt,You have it,你已获得
+TrCompanionInfoKt,HINT,提示
+TrCompanionInfoKt,ANSWER,答案
+TrCompanionInfoKt,HINT: {0},提示：{0}
+TrCompanionInfoKt,AREA {0},区域 {0}
+TrCompanionInfoKt,LV {0},等级 {0}
+TrCompanionInfoKt,THIS MAP,当前地图
+TrCompanionInfoKt,GRASS / CAVE,草丛／洞穴
+TrCompanionInfoKt,SURFING,冲浪
+TrCompanionInfoKt,ROCK SMASH,碎岩
+TrCompanionInfoKt,OLD ROD,破旧钓竿
+TrCompanionInfoKt,GOOD ROD,好钓竿
+TrCompanionInfoKt,SUPER ROD,厉害钓竿
+TrCompanionInfoKt,HEADBUTT,头锤
+TrCompanionInfoKt,HEADBUTT (RARE TREES),头锤（稀有树木）
+TrCompanionInfoKt,For your game's clock: {0}.,按照游戏内时间：{0}。
+TrCompanionInfoKt,TO DO,待办事项
+TrCompanionInfoKt,AT NIGHT,夜晚
+TrCompanionInfoKt,BY DAY,白天
+TrCompanionInfoKt,Only out at night.,仅在夜晚出现。
+TrCompanionInfoKt,Only out by day.,仅在白天出现。
+TrCompanionInfoKt,PEOPLE,人物
+TrCompanionInfoKt,Reading the map...,正在读取地图…
+TrCompanionInfoKt,No wild POKéMON on this map.,此地图没有野生宝可梦。
+TrCompanionInfoKt,WITH {0},与 {0} 一起
+TrCompanionInfoKt,{0} of {1} caught here.,此处已捕获 {0}／{1} 种宝可梦。
+TrCompanionInfoKt,Its buildings included.,包含区域内的建筑。
+TrCompanionInfoKt,A ball = done.,精灵球标记表示已完成。
+TrCompanionInfoKt,Nothing listed for this area.,此区域暂无记录。
+TrCompanionInfoKt,Some want something done first.,部分内容需要先满足条件。
+TrCompanionInfoKt,around {0},在 {0} 附近
+TrCompanionInfoKt,in the {0},在 {0} 内
+TrCompanionInfoKt,Someone {0} gives you this POKéMON.,{0} 的某人会赠送这只宝可梦。
+TrCompanionInfoKt,Someone {0} gives you an EGG. It hatches into {1}.,{0} 的某人会赠送一颗蛋，孵化后获得 {1}。
+TrCompanionInfoKt,Someone {0} trades it for your {1}.,{0} 的某人愿意用它交换你的 {1}。
+TrCompanionInfoKt,Someone {0} gives it to you.,{0} 的某人会把它送给你。
+TrCompanionInfoKt,AN EGG,一颗蛋
+TrCompanionInfoKt,TRADE FOR {0},用 {0} 交换
+TrCompanionInfoKt,HIDDEN ITEM,隐藏道具
+TrCompanionInfoKt,Buried {0}.,埋藏在 {0}。
+TrCompanionInfoKt,Hidden {0}.,隐藏在 {0}。
+TrCompanionInfoKt,Lying {0}.,位于 {0}。
+TrCompanionInfoKt,NEXT: {0},下一个：{0}
+TrCompanionInfoKt,{0} POKéMON,{0} 只宝可梦
+TrCompanionInfoKt,UP TO LV {0},最高等级 {0}
+TrCompanionInfoKt,YOUR BEST LV {0},你的最高等级 {0}
+TrCompanionInfoKt,POKéMON {0},宝可梦 {0}
+TrCompanionInfoKt,{0} TYPE,{0} 属性
+TrCompanionInfoKt,HOLDS {0},携带 {0}
+TrCompanionInfoKt,ALL DONE,全部完成
+TrCompanionInfoKt,Every boss is beaten.,已击败所有首领。
+TrCompanionInfoKt,YOUR PARTY,你的队伍
+TrCompanionInfoKt,SPECIAL EVOLUTIONS,特殊进化
+TrCompanionInfoKt,Doesn't evolve.,无法进化。
+TrCompanionInfoKt,HMs,秘传招式
+TrCompanionInfoKt,GIFT POKéMON,赠送的宝可梦
+TrCompanionInfoKt,POKéDEX,宝可梦图鉴
+TrCompanionInfoKt,SEEN,已见到
+TrCompanionInfoKt,OWNED,已拥有
+TrCompanionInfoKt,CAUGHT,已捕获
+TrCompanionInfoKt,SEEN ONLY,仅见过
+TrCompanionInfoKt,NOT SEEN,未见过
+TrCompanionInfoKt,NATIONAL DEX,全国图鉴
+TrCompanionInfoKt,{0} DEX,{0} 图鉴
+TrCompanionInfoKt,Caught,已捕获
+TrCompanionInfoKt,Seen,已见到
+TrCompanionInfoKt,Previous entry,上一条
+TrCompanionInfoKt,Next entry,下一条
+TrCompanionInfoKt,HT,身高
+TrCompanionInfoKt,WT,体重
+TrCompanionInfoKt,ABILITY,特性
+TrCompanionInfoKt,EGG GROUP,蛋群
+TrCompanionInfoKt,GENDER,性别
+TrCompanionInfoKt,CATCH RATE,捕获率
+TrCompanionInfoKt,UNKNOWN,未知
+TrCompanionInfoKt,♀ ONLY,仅雌性
+TrCompanionInfoKt,♂ ONLY,仅雄性
+TrCompanionInfoKt,INFO|dex section,信息
+TrCompanionInfoKt,MOVES|dex section,招式
+TrCompanionInfoKt,EVOLVE,进化
+TrCompanionInfoKt,AREA,分布区域
+TrCompanionInfoKt,Level up,升级
+TrCompanionInfoKt,high friendship,高亲密度
+TrCompanionInfoKt,in the morning,早晨
+TrCompanionInfoKt,by day,白天
+TrCompanionInfoKt,at dusk,黄昏
+TrCompanionInfoKt,at night,夜晚
+TrCompanionInfoKt,Trade,交换
+TrCompanionInfoKt,Trade for {0},交换获得 {0}
+TrCompanionInfoKt,Use {0},使用 {0}
+TrCompanionInfoKt,holding {0},携带 {0}
+TrCompanionInfoKt,ATTACK > DEFENSE,攻击高于防御
+TrCompanionInfoKt,ATTACK < DEFENSE,攻击低于防御
+TrCompanionInfoKt,ATTACK = DEFENSE,攻击等于防御
+TrCompanionInfoKt,by chance (personality),根据性格值随机决定
+TrCompanionInfoKt,BEAUTY {0}+,美丽度达到 {0} 以上
+TrCompanionInfoKt,knows {0},学会 {0}
+TrCompanionInfoKt,knows a {0} move,学会一个 {0} 属性的招式
+TrCompanionInfoKt,{0} in the party,队伍中有 {0}
+TrCompanionInfoKt,a {0} type in the party,队伍中有 {0} 属性的宝可梦
+TrCompanionInfoKt,at {0},在 {0}
+TrCompanionInfoKt,at a special place,在特殊地点
+TrCompanionInfoKt,in the rain,下雨时
+TrCompanionInfoKt,in fog,起雾时
+TrCompanionInfoKt,in rain or fog,下雨或起雾时
+TrCompanionInfoKt,in a certain weather,在特定天气下
+TrCompanionInfoKt,an amped nature,高调形态对应性格
+TrCompanionInfoKt,a low-key nature,低调形态对应性格
+TrCompanionInfoKt,a certain nature,特定性格
+TrCompanionInfoKt,{0} critical hits in one battle,一场战斗中命中要害 {0} 次
+TrCompanionInfoKt,critical hits in one battle,在同一场战斗中多次命中要害
+TrCompanionInfoKt,{0}+ HP lost,损失至少 {0} 点生命值
+TrCompanionInfoKt,{0}+ recoil damage taken,承受至少 {0} 点反作用伤害
+TrCompanionInfoKt,Scroll of Darkness,恶之挂轴
+TrCompanionInfoKt,Scroll of Waters,水之挂轴
+TrCompanionInfoKt,walk {0} steps,行走 {0} 步
+TrCompanionInfoKt,{0} {1} in the bag,背包中拥有 {0} 个 {1}
+TrCompanionInfoKt,defeat {0} {1} holding {2},携带 {2} 击败 {0} 只 {1}
+TrCompanionInfoKt,defeat {0} holding {1},携带 {1} 击败 {0} 个目标
+TrCompanionInfoKt,use {0} {1} times,使用 {0} 共 {1} 次
+TrCompanionInfoKt,outside {0},在 {0} 外面
+TrCompanionInfoKt,in {0},在 {0} 内
+TrCompanionInfoKt,Spin around,原地旋转
+TrCompanionInfoKt,After a battle,战斗结束后
+TrCompanionInfoKt,in battle,战斗中
+TrCompanionInfoKt,Special spot,特殊地点
+TrCompanionInfoKt,a free slot and a POKé BALL,队伍中有空位且拥有精灵球
+TrCompanionInfoKt,When it becomes {0},变成 {0} 时
+TrCompanionInfoKt,Special condition,特殊条件
+TrCompanionInfoKt,Not found in the wild.,野外无法遇见。
+TrCompanionInfoKt,MORNING,早晨
+TrCompanionInfoKt,DAY,白天
+TrCompanionInfoKt,EVENING,傍晚
+TrCompanionInfoKt,NIGHT,夜晚
+TrCompanionInfoKt,SPRING,春季
+TrCompanionInfoKt,SUMMER,夏季
+TrCompanionInfoKt,AUTUMN,秋季
+TrCompanionInfoKt,WINTER,冬季
+TrCompanionInfoKt,GIFT,赠送
+TrCompanionInfoKt,LEVEL UP,升级
+TrCompanionInfoKt,EVO.,进化
+TrCompanionInfoKt,This game's TMs aren't read yet: level-up moves only.,尚未读取此游戏的招式学习器数据，目前仅显示升级学会的招式。
+TrCompanionInfoKt,TM / TUTOR,招式学习器／招式教授
+TrCompanionInfoKt,TM / HM,招式学习器／秘传学习器
+TrCompanionInfoKt,Indoors,室内
+TrCompanionInfoKt,Unknown area ({0}),未知区域（{0}）
+TrCompanionInfoKt,ACHIEVEMENTS,成就
+TrCompanionInfoKt,LEADERBOARDS,排行榜
+TrCompanionInfoKt,LEADERBOARD,排行榜
+TrCompanionInfoKt,{0} BOARDS,{0} 个排行榜
+TrCompanionInfoKt,{0}/{1} PTS,{0}／{1} 分
+TrCompanionInfoKt,PTS,分数
+TrCompanionInfoKt,NOT SIGNED IN,未登录
+TrCompanionInfoKt,Sign in to RetroAchievements in SETTINGS on the top screen (RetroAchievements). Achievements then unlock as you play and show up here.,请在主屏幕的“设置 > RetroAchievements”中登录。之后游玩时即可解锁成就，并在这里查看。
+TrCompanionInfoKt,CAN'T REACH RetroAchievements,无法连接 RetroAchievements
+TrCompanionInfoKt,"Signed in as {0}, but the server can't be reached right now. It's tried again by itself every few minutes.",已登录为 {0}，但暂时无法连接服务器。系统会每隔几分钟自动重试。
+TrCompanionInfoKt,LOOKING UP THIS ROM,正在查询此 ROM
+TrCompanionInfoKt,Asking RetroAchievements which game this is...,正在向 RetroAchievements 查询这是哪款游戏…
+TrCompanionInfoKt,NO ACHIEVEMENTS FOR THIS ROM,此 ROM 没有可用成就
+TrCompanionInfoKt,RetroAchievements matches a ROM by its exact hash. Retail games and some popular hacks have sets; a patched or rebuilt ROM usually doesn't.,RetroAchievements 通过 ROM 的精确哈希值进行匹配。原版游戏及部分热门改版游戏有成就集，修改或重新编译过的 ROM 通常不支持。
+TrCompanionInfoKt,HASH {0},哈希值 {0}
+TrCompanionInfoKt,TRY AGAIN,重试
+TrCompanionInfoKt,SHOW ALL,显示全部
+TrCompanionInfoKt,HIDDEN|ability,隐藏
+TrCompanionInfoKt,LOADING ACHIEVEMENTS,正在加载成就
+TrCompanionInfoKt,LOCKED ONLY,仅显示未解锁
+TrCompanionInfoKt,UNLOCKED ONLY,仅显示已解锁
+TrCompanionInfoKt,NONE UNLOCKED YET,尚未解锁任何成就
+TrCompanionInfoKt,ALL UNLOCKED!,已全部解锁！
+TrCompanionInfoKt,{0} ENTRIES,{0} 条记录
+TrCompanionInfoKt,COULDN'T LOAD THE LEADERBOARD,无法加载排行榜
+TrCompanionInfoKt,Couldn't load the leaderboard,无法加载排行榜
+TrCompanionInfoKt,NO ENTRIES YET,暂无记录
+TrCompanionInfoKt,RECENTLY UNLOCKED,最近解锁
+TrCompanionInfoKt,ACTIVE CHALLENGES,正在进行的挑战
+TrCompanionInfoKt,ALMOST THERE,即将完成
+TrCompanionInfoKt,LOCKED,未解锁
+TrCompanionInfoKt,UNSUPPORTED,不支持
+TrCompanionInfoKt,UNOFFICIAL,非官方
+TrCompanionInfoKt,UNLOCKS NOT SYNCED TO SERVER,解锁记录尚未同步到服务器
+TrCompanionInfoKt,ACTIVE,进行中
+TrCompanionInfoKt,INACTIVE,未启用
+TrCompanionInfoKt,ACHIEVEMENT UNLOCKED,成就已解锁
+TrCompanionInfoKt,GAME COMPLETE,游戏已完成
+TrCompanionInfoKt,PROGRESS,进度
+TrCompanionInfoKt,{0} OF {1} UNLOCKED · SOFTCORE,已解锁 {0}／{1} · 普通模式
+TrCompanionInfoKt,EVERY ACHIEVEMENT UNLOCKED,全部成就已解锁
+TrCompanionInfoKt,LEADERBOARD ATTEMPT STARTED,排行榜挑战已开始
+TrCompanionInfoKt,LEADERBOARD ATTEMPT FAILED,排行榜挑战失败
+TrCompanionInfoKt,SUBMITTED {0},已提交 {0}
+TrCompanionInfoKt,{0} · RANK {1},{0} · 排名 {1}
+TrCompanionInfoKt,SIGNED OUT,已退出登录
+TrCompanionInfoKt,Sign in to RetroAchievements again in Settings.,请在设置中重新登录 RetroAchievements。
+TrCompanionInfoKt,OFFLINE,离线
+TrCompanionInfoKt,Unlocks are kept and sent once RetroAchievements can be reached.,解锁记录已保留，连接恢复后会自动上传。
+TrCompanionInfoKt,BACK ONLINE,已重新联网
+TrCompanionInfoKt,Waiting unlocks were sent.,待同步的解锁记录已发送。
+TrCompanionInfoKt,SERVER ERROR,服务器错误
+TrCompanionInfoKt,RetroAchievements isn't available on this device,此设备不支持 RetroAchievements
