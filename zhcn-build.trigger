@@ -3,3 +3,4 @@ Chinese translation: 1,345 UI entries.
 Run tests before assembling and uploading the debug APK.
 Font fallback fix: use consistent Android sans-serif for zh-CN user interface.
 Build revision: zhcn-font-1.
+ROM importer diagnostics + all-valid-ROM library listing build revision 2.
