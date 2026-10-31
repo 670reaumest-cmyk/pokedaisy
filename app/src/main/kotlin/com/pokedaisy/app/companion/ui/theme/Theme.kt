@@ -274,6 +274,16 @@ object AppColors {
  */
 @Composable
 fun pixelFontFamily(): FontFamily {
+    // Unofficial zh-CN localization: PixelOperator has no Han glyphs and
+    // PixelMplusJP misses many Simplified Chinese glyphs. Mixing its Japanese
+    // kanji with Android's Chinese fallback makes characters visibly differ
+    // in shape, weight and perceived size within the same sentence.
+    // Use a consistent Android sans-serif family for the Chinese UI only.
+    // This does not change the game ROM's own rendered fonts or core emulation.
+    if (com.pokedaisy.app.companion.i18n.L10n.language ==
+        com.pokedaisy.app.companion.i18n.AppLanguage.ZH) {
+        return FontFamily.SansSerif
+    }
     LocalGameFont.current?.let { return it }
     val context = LocalContext.current
     // Pixel Operator + its Japanese fallback (PixelTypeface.kt), one per process.
