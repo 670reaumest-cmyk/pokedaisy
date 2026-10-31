@@ -1544,14 +1544,33 @@ class LibraryActivity : ComponentActivity() {
      * A `.zip` / `.7z` is unpacked: its ROM joins the library under the
      * archive's name (`Emerald.zip` -> `Emerald.gba`).
      */
+    /** The stock importer hid failed reads and invalid cart headers. Give a useful
+     * diagnostic instead of silently returning to an empty library. */
+    private fun showRomImportFailure(chinese: String, english: String, cause: Throwable? = null) {
+        android.util.Log.w("PokeDaisyImport", english, cause)
+        runOnUiThread {
+            val isZh = com.pokedaisy.app.companion.i18n.L10n.language ==
+                com.pokedaisy.app.companion.i18n.AppLanguage.ZH
+            Toast.makeText(this, if (isZh) "导入失败：" + chinese else "ROM import failed: " + english, Toast.LENGTH_LONG).show()
+        }
+    }
+
     private fun startImport(uri: Uri, play: Boolean) {
         // VIEW is exported: any app can point it anywhere. Never this app's own files (RomIntake).
-        if (RomIntake.isOwn(this, uri)) return
+        if (RomIntake.isOwn(this, uri)) {
+            showRomImportFailure(
+                "无法从应用私有目录导入，请将 ROM 放到 Downloads 或独立游戏文件夹。",
+                "Cannot import from the app's private directory; move the ROM to Downloads.",
+            )
+            return
+        }
         Thread({
             val pending = try {
                 var tmp = File(importDir, "import-${System.currentTimeMillis()}.gba")
                 try {
-                    contentResolver.openInputStream(uri)?.use { input -> tmp.outputStream().use { RomIntake.copyCapped(input, it) } }
+                    val input = contentResolver.openInputStream(uri)
+                        ?: throw java.io.IOException("The selected file could not be opened")
+                    input.use { source -> tmp.outputStream().use { RomIntake.copyCapped(source, it) } }
                 } catch (t: Throwable) {
                     tmp.delete()
                     throw t
@@ -1573,12 +1592,25 @@ class LibraryActivity : ComponentActivity() {
                 if (tmp.length() > 0 && RomIdentity.looksLikeRom(tmp)) {
                     PendingImport(tmp, name, RomUris.originalPath(this, uri), play)
                 } else {
+                    showRomImportFailure(
+                        "文件没有有效的 GBA/GB/GBC/NDS 游戏头，请检查文件格式或尝试将 ROM 解压成 .gba 文件。",
+                        "Invalid ROM cartridge header; check the file type or extract a plain .gba file.",
+                    )
                     tmp.delete(); null
                 }
             } catch (t: Throwable) {
+                showRomImportFailure(
+                    "读取文件失败（" + t.javaClass.simpleName + "），请检查存储权限或先将游戏复制到 Downloads 后再导入。",
+                    "File read failed (" + t.javaClass.simpleName + "); check permissions or copy the ROM to Downloads.",
+                    t,
+                )
                 null
             } ?: return@Thread
-            val supported = CompanionSupport.isSupported(pending.tmp)
+            val supported = runCatching { CompanionSupport.isSupported(pending.tmp) }
+                .getOrElse { error ->
+                    android.util.Log.w("PokeDaisyImport", "Companion detection failed; asking whether to add", error)
+                    false
+                }
             runOnUiThread { if (supported) finishImport(pending) else pendingImport = pending }
         }, "pokedaisy-import").apply { isDaemon = true; start() }
     }
